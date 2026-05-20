@@ -10,13 +10,13 @@ Based on:
 
 # Contributors
 
-Atha Putra Fausta - [@Atha Putra](https://github.com/ahtape)
+Atha Putra Fausta - [@ahtape](https://github.com/ahtape)
 
 Fikar Adi Nugraha - [@Gatoetkatja](https://github.com/Gatoetkatja)
 
-Abdul Hamid Awaludin Ardiansyah - [@Asistink](https://github.com/asistink)
+Abdul Hamid Awaludin Ardiansyah - [@asistink](https://github.com/asistink)
 
-Khoirul Adib Fairuza - [@r](https://github.com/feinru)
+Khoirul Adib Fairuza - [@feinru](https://github.com/feinru)
 
 
 # Project Description
