@@ -52,20 +52,28 @@ The main objectives of this project are:
 6. Evaluate the generated knowledge graph using statistical and semantic analysis.
 7. Store the resulting RDF graph in a SPARQL endpoint.
 
+# Current ETL Pipeline
+
+### 1. Data Acquisition
+
+The acquisition process downloads cybersecurity resources from public repositories and prepares them for extraction.
+
+Available data sources are capec, cwe, cve, cat, and icsa.
+
+### 2. Resource Extraction / Transformation
+
+This stage performs parsing, data transformation, and RDF mapping generation. The extracted data is transformed into RDF triples and OWL/RDFS-compatible semantic structures.
+
+### 3. Entity Linking & Validation
+
+This stage checks for term linking (e.g. CVE to CWE, CVE to CPE, CWE to CAPEC, etc.) based on the schema from the paper. Then, the pipeline validates RDF completeness, semantic consistency, missing references, and relationship correctness.
+
+### 4. Data Storage
+
+The final RDF graph is stored into a semantic database/triplestore for querying and analysis.
+
 
 # Proposed Concept
-
-## Traditional Pipeline
-
-The original SEPSES-CSKG system uses a conventional ETL workflow:
-
-```text
-Extract → Transform → Load
-```
-
-Each dataset is processed using predefined scripts and transformation rules before being converted into RDF triples.
-
----
 
 ## Agentic AI Pipeline
 
