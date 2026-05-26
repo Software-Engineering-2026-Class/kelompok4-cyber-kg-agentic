@@ -52,20 +52,28 @@ The main objectives of this project are:
 6. Evaluate the generated knowledge graph using statistical and semantic analysis.
 7. Store the resulting RDF graph in a SPARQL endpoint.
 
+# Current ETL Pipeline
+
+### 1. Data Acquisition
+
+The acquisition process downloads cybersecurity resources from public repositories and prepares them for extraction.
+
+Available data sources are capec, cwe, cve, cat, and icsa.
+
+### 2. Resource Extraction / Transformation
+
+This stage performs parsing, data transformation, and RDF mapping generation. The extracted data is transformed into RDF triples and OWL/RDFS-compatible semantic structures.
+
+### 3. Entity Linking & Validation
+
+This stage checks for term linking (e.g. CVE to CWE, CVE to CPE, CWE to CAPEC, etc.) based on the schema from the paper. Then, the pipeline validates RDF completeness, semantic consistency, missing references, and relationship correctness.
+
+### 4. Data Storage
+
+The final RDF graph is stored into a semantic database/triplestore for querying and analysis.
+
 
 # Proposed Concept
-
-## Traditional Pipeline
-
-The original SEPSES-CSKG system uses a conventional ETL workflow:
-
-```text
-Extract → Transform → Load
-```
-
-Each dataset is processed using predefined scripts and transformation rules before being converted into RDF triples.
-
----
 
 ## Agentic AI Pipeline
 
@@ -99,16 +107,50 @@ Instead of fixed transformations, agents can:
 
 The project focuses on integrating several major cybersecurity datasets:
 
-| Dataset | Description |
-|---|---|
-| CVE | Common Vulnerabilities and Exposures |
-| CVSS | Common Vulnerability Scoring System |
-| CWE | Common Weakness Enumeration |
-| CPE | Common Platform Enumeration |
-| CAPEC | Common Attack Pattern Enumeration and Classification |
-| MITRE ATT&CK Enterprise | Enterprise attack techniques |
-| MITRE ATT&CK ICS | Industrial Control System attack techniques |
-| ICSA | Industrial Control System Advisories |
+| Dataset | Description | Source |
+|---|---|---|
+| CVE | Common Vulnerabilities and Exposures | [NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds) |
+| CVSS | Common Vulnerability Scoring System | [NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds) |
+| CWE | Common Weakness Enumeration | [MITRE CWE](https://cwe.mitre.org/) |
+| CPE | Common Platform Enumeration | [NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds) |
+| CAPEC | Common Attack Pattern Enumeration and Classification | [MITRE CAPEC](https://capec.mitre.org/) |
+| MITRE ATT&CK Enterprise | Enterprise attack techniques | [MITRE ATT&CK](https://attack.mitre.org/) |
+| MITRE ATT&CK ICS | Industrial Control System attack techniques | [MITRE ATT&CK](https://attack.mitre.org/) |
+| ICSA | Industrial Control System Advisories | [CISA ICSA](https://www.cisa.gov/news-events/ics-advisories) |
+
+
+# Data Sources & Access
+
+## NVD Data Feeds
+
+The primary source for CVE, CVSS, and CPE data is the [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/data-feeds). The NVD provides two methods for accessing vulnerability data:
+
+### NVD 2.0 APIs (Preferred)
+
+The [NVD 2.0 APIs](https://nvd.nist.gov/developers) are the recommended method for staying up to date. Key benefits include:
+- Real-time updates (synced with the NVD website)
+- Advanced search capabilities (by CVE ID, CPE, date range, etc.)
+- Ability to retrieve only data changed since a given date/time
+- Endpoints:
+  - **CVE API**: https://nvd.nist.gov/developers/vulnerabilities
+  - **CPE API**: https://nvd.nist.gov/developers/products
+
+> **Note:** An [API key](https://nvd.nist.gov/developers/request-an-api-key) is recommended for higher rate limits.
+
+### NVD JSON 2.0 Data Feeds (Traditional)
+
+For bulk/offline access, the NVD provides downloadable JSON 2.0 feeds:
+
+| Feed | Description | Format |
+|---|---|---|
+| CVE Vulnerability Feeds | Per-year CVE data (2002–2026), plus `modified` and `recent` feeds | `.json.gz` / `.json.zip` |
+| CPE Dictionary Feed | Complete CPE dictionary | `.tar.gz` / `.zip` |
+| CPE Match Feed | CPE applicability statements | `.tar.gz` / `.zip` |
+
+- **Schema**: [NVD JSON 2.0 Schema](https://csrc.nist.gov/schema/nvd/api/2.0/cve_api_json_2.0.schema)
+- **Update frequency**: Year feeds updated nightly; `modified` and `recent` feeds updated every 2 hours
+- **Sync strategy**: Perform a one-time full import, then use the `modified` feed to stay current
+- **META files**: Always check `.meta` files before downloading to determine if a feed has been updated
 
 
 # References
@@ -116,3 +158,5 @@ The project focuses on integrating several major cybersecurity datasets:
 1. https://link.springer.com/chapter/10.1007/978-3-030-30796-7_13
 2. https://eprints.cs.univie.ac.at/8177/1/ISWC24_ICS-SEC__Andreas%20Ekelhart.pdf
 3. https://github.com/sepses/cyber-kg-converter
+4. https://nvd.nist.gov/vuln/data-feeds
+5. https://nvd.nist.gov/developers
