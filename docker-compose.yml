@@ -1,0 +1,16 @@
+version: "3"
+services:
+  virtuoso:
+    image: openlink/virtuoso-opensource-7:latest
+    environment:
+      - SPARQL_UPDATE=true
+      - DEFAULT_GRAPH=http://w3id.org/sepses/graph/cskg
+      - DBA_PASSWORD=dba
+    ports:
+      - "8890:8890" # HTTP & SPARQL Endpoint
+      - "1111:1111" # ISQL port
+    volumes:
+      - virtuoso_data:/database
+
+volumes:
+  virtuoso_data:
