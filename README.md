@@ -23,3 +23,13 @@ This project implements a multi-agent pipeline to fetch, parse, link, validate, 
    ```bash
    pip install -r requirement.txt
    ```
+
+## Configuration
+
+Configuration is primarily handled through environment variables and agent-specific `.env` or `config.py` files.
+
+1. **Environment Variables:**
+   Rename `.env.example` to `.env` (if applicable) or create a `.env` file in the root and agent directories (like `fetcher_agent/.env`) to store API keys or configurations.
+   
+2. **Virtuoso Configuration:**
+   The SPARQL endpoint is configured via `sparql_endpoint/docker-compose.yaml`. The default exposed ports are `8890` (HTTP/SPARQL) and `1111` (ISQL).
