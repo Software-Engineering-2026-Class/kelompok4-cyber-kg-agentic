@@ -8,6 +8,9 @@ load_dotenv()
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
 
 def reviewer(state: FetcherState) -> FetcherState:
+    retry_count = state.get("retry_count", 0)
+    MAX_RETRIES = 2
+
     results_summary = "\n".join([
         f"- {r['source']}: {r['status']}"
         + (f", {r['records']} records, file: {r['file_path']}"
@@ -15,7 +18,7 @@ def reviewer(state: FetcherState) -> FetcherState:
         for r in state["results"]
     ])
 
-    print(f"\n[Reviewer] Mengevaluasi hasil...")
+    print(f"\n[Reviewer] Mengevaluasi hasil... (retry ke-{retry_count})")
 
     response = llm.invoke([
         SystemMessage(content="""
@@ -49,7 +52,7 @@ Aturan:
 
     print(f"[Reviewer] Verdict: {verdict['verdict']}")
 
-    if verdict["verdict"] == "retry" and verdict.get("retry_sources"):
+    if verdict["verdict"] == "retry" and verdict.get("retry_sources") and retry_count < MAX_RETRIES:
         retry_plan = [s for s in verdict["retry_sources"] if s in state["fetch_plan"]]
         if retry_plan:
             return {
@@ -57,6 +60,7 @@ Aturan:
                 "fetch_plan":     retry_plan,
                 "current_source": retry_plan[0],
                 "all_done":       False,
+                "retry_count":    retry_count + 1,
                 "messages": state["messages"] + [
                     AIMessage(content=f"Mencoba retry untuk: {retry_plan}")
                 ],
@@ -65,6 +69,7 @@ Aturan:
     return {
         **state,
         "all_done": True,
+        "retry_count": 0,
         "messages": state["messages"] + [
             AIMessage(content=verdict["summary"])
         ],
