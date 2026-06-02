@@ -111,3 +111,16 @@ python verify.py
 - **Missing Triples:** The validation agent might flag missing mandatory triples if the upstream data source (e.g., MITRE or NVD) has incomplete entries.
 - **Sequential Dependency:** The pipeline currently requires manual sequential execution. If `fetcher_agent` fails or updates partial data, downstream agents must be re-run manually.
 - **Stale Data:** Fetched data is cached; you must clear the cache or adjust fetch instructions to pull the latest upstream vulnerability advisories.
+- **Limited CVE & CPE Data (Demo Mode):** The CVE and CPE fetchers are currently capped at 100 records for development purposes. This causes a high error rate in `icsa_to_cve.ttl` and `cve_to_cpe.ttl` because most CVEs referenced by the ICSA are missing from the base dataset. 
+  * **Fix:** Remove `MAX_DEMO = 100` in `fetcher_agent/fetchers/nvd.py` and use an NVD API key to perform a full fetch (~350K CVEs, estimated to take 2–4 hours).
+
+## 10. Contributor
+
+| Name | GitHub | Role |
+|---|---|---|
+| Atha Putra Fausta | [@ahtape](https://github.com/ahtape) | Validation Agent & Evaluation |
+| Fikar Adi Nugraha | [@Gatoetkatja](https://github.com/Gatoetkatja) | Fetcher Agent SPARQL Endpoint |
+| Abdul Hamid Awaludin Ardiansyah | [@asistink](https://github.com/asistink) | Linking Agent & Evaluation |
+| Khoirul Adib Fairuza | [@feinru](https://github.com/feinru) | Parser Agent & SPARQL Endpoint |
+
+---
