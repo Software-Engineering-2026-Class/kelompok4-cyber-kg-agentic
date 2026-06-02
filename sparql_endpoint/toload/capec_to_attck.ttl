@@ -1,0 +1,1882 @@
+@prefix attck: <http://w3id.org/sepses/vocab/ref/attack#> .
+@prefix capec: <http://w3id.org/sepses/vocab/ref/capec#> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-1> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.010> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-10> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-100> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-101> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-102> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-103> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-104> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-105> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-106> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-107> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-108> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-109> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-11> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.006> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-110> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-111> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-112> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1110> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-113> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-114> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1548> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-115> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1548> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-116> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-117> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-12> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-120> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-121> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-122> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1548> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-123> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-124> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-125> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1498.001>,
+        <http://w3id.org/sepses/resource/attack/T1499> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-126> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-127> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1083> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-128> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-129> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-13> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1562.003>,
+        <http://w3id.org/sepses/resource/attack/T1574.006>,
+        <http://w3id.org/sepses/resource/attack/T1574.007> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-130> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-131> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-132> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1547.009> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-133> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-134> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-135> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-136> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-137> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-138> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-139> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-14> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-140> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-141> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1557.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-142> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1584.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-143> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-144> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-145> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-146> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-147> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-148> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1491> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-149> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-15> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-150> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1003>,
+        <http://w3id.org/sepses/resource/attack/T1119>,
+        <http://w3id.org/sepses/resource/attack/T1213>,
+        <http://w3id.org/sepses/resource/attack/T1530>,
+        <http://w3id.org/sepses/resource/attack/T1555>,
+        <http://w3id.org/sepses/resource/attack/T1602> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-151> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-153> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-154> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-155> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-157> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-158> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1040>,
+        <http://w3id.org/sepses/resource/attack/T1111> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-159> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.008> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-16> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-160> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-161> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-162> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-163> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1534>,
+        <http://w3id.org/sepses/resource/attack/T1566.001>,
+        <http://w3id.org/sepses/resource/attack/T1566.002>,
+        <http://w3id.org/sepses/resource/attack/T1566.003>,
+        <http://w3id.org/sepses/resource/attack/T1598.001>,
+        <http://w3id.org/sepses/resource/attack/T1598.002>,
+        <http://w3id.org/sepses/resource/attack/T1598.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-164> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-165> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-166> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-167> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-168> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-169> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1217>,
+        <http://w3id.org/sepses/resource/attack/T1592>,
+        <http://w3id.org/sepses/resource/attack/T1595> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-17> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.005>,
+        <http://w3id.org/sepses/resource/attack/T1574.010> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-170> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-171> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-173> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-174> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-175> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-176> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-177> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-178> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-179> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-18> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-180> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.010> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-181> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-182> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-183> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-184> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-185> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-186> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-187> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1072> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-188> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-189> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-19> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027.009>,
+        <http://w3id.org/sepses/resource/attack/T1546.004>,
+        <http://w3id.org/sepses/resource/attack/T1546.016> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-190> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-191> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1552.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-192> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-193> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-194> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-195> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-196> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1134.002>,
+        <http://w3id.org/sepses/resource/attack/T1134.003>,
+        <http://w3id.org/sepses/resource/attack/T1606> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-197> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-198> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-199> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-2> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1531> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-20> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-200> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-201> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-202> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-203> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1112>,
+        <http://w3id.org/sepses/resource/attack/T1647> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-204> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1005> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-205> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-206> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1553.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-207> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-208> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-209> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-21> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1134>,
+        <http://w3id.org/sepses/resource/attack/T1528>,
+        <http://w3id.org/sepses/resource/attack/T1539> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-211> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-212> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-213> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-214> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-215> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-216> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-217> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-218> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-219> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-22> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-220> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-221> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-222> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-224> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-226> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-227> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-228> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-229> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-23> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-230> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-231> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-233> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1548> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-234> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-235> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-236> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-237> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-238> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-239> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-24> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-240> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-241> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-242> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-243> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-244> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-245> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-246> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-247> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-248> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-249> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-25> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-250> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-251> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1055> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-252> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-253> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-254> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-256> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-257> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-258> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-259> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-26> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-260> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-261> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-263> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-264> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-265> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-266> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-267> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-268> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1070>,
+        <http://w3id.org/sepses/resource/attack/T1562.002>,
+        <http://w3id.org/sepses/resource/attack/T1562.003>,
+        <http://w3id.org/sepses/resource/attack/T1562.008> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-269> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-27> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-270> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1547.001>,
+        <http://w3id.org/sepses/resource/attack/T1547.014> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-271> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-272> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-273> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-274> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-275> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-276> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-277> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-278> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-279> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-28> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-280> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-285> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-287> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-288> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-289> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-29> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-290> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-291> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-292> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1018> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-293> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-294> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-295> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1124> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-296> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-297> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-298> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-299> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-3> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-30> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1055.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-300> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1046> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-301> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-302> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-303> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-304> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-305> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-306> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-307> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-308> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-309> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1016>,
+        <http://w3id.org/sepses/resource/attack/T1049>,
+        <http://w3id.org/sepses/resource/attack/T1590> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-31> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1539> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-310> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-311> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-312> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1082> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-313> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1082> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-314> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-315> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-316> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-317> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-318> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-319> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-32> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-320> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-321> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-322> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-323> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-324> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-325> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-326> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-327> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-328> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-329> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-33> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-330> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-331> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-332> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-34> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-35> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027.006>,
+        <http://w3id.org/sepses/resource/attack/T1027.009>,
+        <http://w3id.org/sepses/resource/attack/T1564.009> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-36> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-37> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1005>,
+        <http://w3id.org/sepses/resource/attack/T1552.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-38> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.007>,
+        <http://w3id.org/sepses/resource/attack/T1574.009> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-383> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1056.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-384> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-385> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-386> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-387> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-388> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-389> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-39> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-390> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-391> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-392> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-393> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-394> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-395> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-396> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-397> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-398> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-399> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-4> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-40> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-400> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-401> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-402> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-404> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-405> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-406> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-407> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1589> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-408> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-409> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-41> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-410> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-411> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-412> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-413> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-414> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-415> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-416> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-417> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-418> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-419> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-42> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-420> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-421> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-422> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-423> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-424> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-425> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-426> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-427> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-428> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-429> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-43> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-430> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-431> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-432> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-433> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-434> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-435> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-438> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-439> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-44> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-440> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003>,
+        <http://w3id.org/sepses/resource/attack/T1200> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-441> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-442> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001>,
+        <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-443> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002>,
+        <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-444> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-445> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-446> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-447> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-448> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027.009> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-449> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-45> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-450> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-451> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-452> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-453> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-454> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-455> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-456> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-457> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1091>,
+        <http://w3id.org/sepses/resource/attack/T1092> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-458> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-459> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-46> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-460> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-461> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-462> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-463> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-464> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1606.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-465> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1090.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-466> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-467> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-468> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-469> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-47> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-470> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-471> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.001>,
+        <http://w3id.org/sepses/resource/attack/T1574.004>,
+        <http://w3id.org/sepses/resource/attack/T1574.008> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-472> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-473> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.001>,
+        <http://w3id.org/sepses/resource/attack/T1553.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-474> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1552.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-475> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-476> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-477> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-478> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1543.003>,
+        <http://w3id.org/sepses/resource/attack/T1574.011> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-479> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1553.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-48> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-480> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1611> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-481> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1090.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-482> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1498.001>,
+        <http://w3id.org/sepses/resource/attack/T1499.001>,
+        <http://w3id.org/sepses/resource/attack/T1499.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-484> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-485> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1552.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-486> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-487> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-488> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-489> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1499.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-49> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1110.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-490> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1498.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-491> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-492> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-493> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-494> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-495> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-496> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-497> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1083> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-498> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-499> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-5> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-50> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-500> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-501> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-502> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-503> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-504> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-505> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-506> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-507> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-508> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-509> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1558.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-51> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-510> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-511> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-516> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-517> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-518> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-519> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-52> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-520> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-521> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-522> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-523> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-524> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-528> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1498.001>,
+        <http://w3id.org/sepses/resource/attack/T1499.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-529> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-53> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-530> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-531> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-532> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1495>,
+        <http://w3id.org/sepses/resource/attack/T1542.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-533> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-534> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-535> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-536> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-537> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-538> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-539> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-54> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-540> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-541> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1592.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-542> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027>,
+        <http://w3id.org/sepses/resource/attack/T1587.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-543> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.005> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-544> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-545> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1005>,
+        <http://w3id.org/sepses/resource/attack/T1555.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-546> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-547> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-548> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-549> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-55> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1110.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-550> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1543> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-551> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1543> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-552> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1014>,
+        <http://w3id.org/sepses/resource/attack/T1542.003>,
+        <http://w3id.org/sepses/resource/attack/T1547.006> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-554> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-555> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1021>,
+        <http://w3id.org/sepses/resource/attack/T1114.002>,
+        <http://w3id.org/sepses/resource/attack/T1133> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-556> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1546.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-557> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-558> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1505.005>,
+        <http://w3id.org/sepses/resource/attack/T1546.008> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-559> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-56> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-560> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1078> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-561> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1021.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-562> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1080> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-563> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-564> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1037>,
+        <http://w3id.org/sepses/resource/attack/T1543.001>,
+        <http://w3id.org/sepses/resource/attack/T1543.004>,
+        <http://w3id.org/sepses/resource/attack/T1547> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-565> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1110.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-566> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-567> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-568> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1056.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-569> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1056> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-57> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1040> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-570> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-571> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1562.002>,
+        <http://w3id.org/sepses/resource/attack/T1562.006>,
+        <http://w3id.org/sepses/resource/attack/T1562.008> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-572> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-573> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1057> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-574> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1007> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-575> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1087> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-576> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1069>,
+        <http://w3id.org/sepses/resource/attack/T1615> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-577> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1033> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-578> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1556.006>,
+        <http://w3id.org/sepses/resource/attack/T1562.001>,
+        <http://w3id.org/sepses/resource/attack/T1562.002>,
+        <http://w3id.org/sepses/resource/attack/T1562.004>,
+        <http://w3id.org/sepses/resource/attack/T1562.007>,
+        <http://w3id.org/sepses/resource/attack/T1562.008>,
+        <http://w3id.org/sepses/resource/attack/T1562.009> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-579> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1547.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-58> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-580> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1082> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-581> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1518.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-582> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-583> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-584> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-585> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-586> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-587> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-588> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-589> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-59> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-590> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-591> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-592> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-593> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1185>,
+        <http://w3id.org/sepses/resource/attack/T1550.001>,
+        <http://w3id.org/sepses/resource/attack/T1563> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-594> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-595> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-596> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-597> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-598> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-599> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-6> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-60> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1134.001>,
+        <http://w3id.org/sepses/resource/attack/T1550.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-600> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1110.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-601> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-602> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-603> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-604> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-605> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-606> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-607> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-608> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-609> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1111> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-61> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-610> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-611> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-612> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-613> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-614> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-615> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-616> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.005> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-617> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-618> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-619> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-62> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-620> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1600> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-621> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-622> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-623> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-624> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-625> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-626> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-627> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-628> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-629> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-63> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-630> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-631> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-632> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-633> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1134> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-634> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1123>,
+        <http://w3id.org/sepses/resource/attack/T1125> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-635> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.007> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-636> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1001.002>,
+        <http://w3id.org/sepses/resource/attack/T1027.003>,
+        <http://w3id.org/sepses/resource/attack/T1027.004>,
+        <http://w3id.org/sepses/resource/attack/T1218.001>,
+        <http://w3id.org/sepses/resource/attack/T1221> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-637> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1115> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-638> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1542.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-639> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1039>,
+        <http://w3id.org/sepses/resource/attack/T1552.001>,
+        <http://w3id.org/sepses/resource/attack/T1552.003>,
+        <http://w3id.org/sepses/resource/attack/T1552.004>,
+        <http://w3id.org/sepses/resource/attack/T1552.006> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-64> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-640> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1505.005>,
+        <http://w3id.org/sepses/resource/attack/T1574.006>,
+        <http://w3id.org/sepses/resource/attack/T1574.013>,
+        <http://w3id.org/sepses/resource/attack/T1620> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-641> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1574.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-642> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1505.005>,
+        <http://w3id.org/sepses/resource/attack/T1554>,
+        <http://w3id.org/sepses/resource/attack/T1574.005> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-643> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1135> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-644> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1550.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-645> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1550.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-646> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1120> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-647> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1005>,
+        <http://w3id.org/sepses/resource/attack/T1012>,
+        <http://w3id.org/sepses/resource/attack/T1552.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-648> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1113>,
+        <http://w3id.org/sepses/resource/attack/T1513> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-649> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1036.006> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-65> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1040> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-650> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1505.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-651> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1111> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-652> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1558> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-653> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-654> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1056>,
+        <http://w3id.org/sepses/resource/attack/T1548.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-655> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1027.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-656> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-657> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1072> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-66> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-660> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1055> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-661> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-662> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1185> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-663> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-664> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-665> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1211>,
+        <http://w3id.org/sepses/resource/attack/T1542.002>,
+        <http://w3id.org/sepses/resource/attack/T1556> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-666> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1498.001>,
+        <http://w3id.org/sepses/resource/attack/T1499.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-667> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-668> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1565.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-669> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-67> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-670> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1127>,
+        <http://w3id.org/sepses/resource/attack/T1195.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-671> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-672> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-673> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-674> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-675> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1052> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-676> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-677> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-678> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-679> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-68> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1553.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-680> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-681> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-682> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-69> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-690> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-691> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001>,
+        <http://w3id.org/sepses/resource/attack/T1195.002> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-692> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-693> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-694> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1614> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-695> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1195.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-696> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-697> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1557.003> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-698> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1176>,
+        <http://w3id.org/sepses/resource/attack/T1505.004> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-699> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-7> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-70> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1078.001> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-700> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1599> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-701> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-702> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-71> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-72> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-73> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-74> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-75> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-76> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-77> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-78> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-79> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-8> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-80> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-81> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-82> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-83> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-84> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-85> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-86> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-87> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-88> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-89> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-9> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-90> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-91> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-92> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-93> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-94> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1557> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-95> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-96> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-97> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-98> a capec:CAPEC ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1566>,
+        <http://w3id.org/sepses/resource/attack/T1598> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-99> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/attack/T1001.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1007> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1012> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1014> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1016> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1018> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1021> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1021.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1033> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.007> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1037> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1039> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1046> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1049> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1052> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1055.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1056.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1056.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1057> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1069> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1070> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1078> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1078.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1080> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1087> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1090.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1090.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1091> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1092> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1110> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1110.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1110.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1110.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1110.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1112> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1113> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1114.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1115> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1119> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1120> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1123> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1124> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1125> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1127> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1133> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1134.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1134.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1134.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1135> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1176> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1200> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1211> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1213> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1217> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1218.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1221> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1491> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1495> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1498.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1499.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1499.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1505.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1505.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1513> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1518.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1528> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1530> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1531> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1534> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1542.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1542.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1543.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1543.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1543.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1546.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1546.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1546.008> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1546.016> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547.009> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1547.014> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1548.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1550.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1550.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1550.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1550.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1552.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1552.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1552.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1553.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1554> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1555> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1555.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1556> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1556.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1557> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1557.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1557.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1558> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1558.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.007> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.009> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1563> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1564.009> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1565.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1566> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1566.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1566.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1566.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.009> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.011> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.013> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1584.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1587.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1589> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1590> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1592> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1592.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1595> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1598> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1598.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1598.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1598.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1599> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1600> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1602> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1606> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1606.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1611> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1614> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1615> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1620> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1647> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.005> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1036.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1055> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1056> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1072> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1083> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1134> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1185> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1499.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1539> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1542.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1543> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1552.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.003> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.005> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.006> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.007> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.008> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1027.009> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1040> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1082> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1111> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1195> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1499> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1505.005> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1553.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1562.008> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1574.010> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1005> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1498.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1548> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1552.004> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1499.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1195.001> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1195.002> a attck:AttackPattern .
+
+<http://w3id.org/sepses/resource/attack/T1195.003> a attck:AttackPattern .
+

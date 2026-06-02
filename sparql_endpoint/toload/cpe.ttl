@@ -1,0 +1,402 @@
+@prefix cpe: <http://w3id.org/sepses/vocab/ref/cpe#> .
+
+<http://w3id.org/sepses/resource/cpe/006E9345-1B41-4ADB-A6F3-99E9A53F954B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13700:-:*:*:*:*:*:*:*" ;
+    cpe:id "006E9345-1B41-4ADB-A6F3-99E9A53F954B" .
+
+<http://w3id.org/sepses/resource/cpe/03C44588-71F9-48C8-8A03-795AFB3FE373> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17100-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "03C44588-71F9-48C8-8A03-795AFB3FE373" .
+
+<http://w3id.org/sepses/resource/cpe/0988AD94-8B2A-4C13-8E78-41CFF037B85F> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16450-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "0988AD94-8B2A-4C13-8E78-41CFF037B85F" .
+
+<http://w3id.org/sepses/resource/cpe/11822DF2-133C-47A5-ACFC-6814E4A63218> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3c16116-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "11822DF2-133C-47A5-ACFC-6814E4A63218" .
+
+<http://w3id.org/sepses/resource/cpe/1BD26339-50E7-4279-9CE6-3FDE487D7E7A> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_200e:-:*:*:*:*:*:*:*" ;
+    cpe:id "1BD26339-50E7-4279-9CE6-3FDE487D7E7A" .
+
+<http://w3id.org/sepses/resource/cpe/1CD3B2F1-B91D-4B8A-9D77-19BDCF5BA081> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_50:-:*:*:*:*:*:*:*" ;
+    cpe:id "1CD3B2F1-B91D-4B8A-9D77-19BDCF5BA081" .
+
+<http://w3id.org/sepses/resource/cpe/2158A75F-39FD-4D6D-A080-0639E6C78496> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17709-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "2158A75F-39FD-4D6D-A080-0639E6C78496" .
+
+<http://w3id.org/sepses/resource/cpe/22380B49-7145-4265-9E58-3432CFD7BC9E> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:fireworks:9.0:*:*:*:*:*:*:*" ;
+    cpe:id "22380B49-7145-4265-9E58-3432CFD7BC9E" .
+
+<http://w3id.org/sepses/resource/cpe/273A1B1E-C929-427C-8E95-DE6C75E3F821> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:elicensing:-:*:*:*:*:*:*:*" ;
+    cpe:id "273A1B1E-C929-427C-8E95-DE6C75E3F821" .
+
+<http://w3id.org/sepses/resource/cpe/29C18B93-5CD7-4000-AE04-0BCD8F79F9AC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:acrobat_business_tools:-:*:*:*:*:*:*:*" ;
+    cpe:id "29C18B93-5CD7-4000-AE04-0BCD8F79F9AC" .
+
+<http://w3id.org/sepses/resource/cpe/2C1C29BC-4A0A-4094-B164-FD414F5B41AC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13613:-:*:*:*:*:*:*:*" ;
+    cpe:id "2C1C29BC-4A0A-4094-B164-FD414F5B41AC" .
+
+<http://w3id.org/sepses/resource/cpe/2E6C7F5E-2AA4-495F-8119-D8AEBCD9C2D6> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:acrobat:-:*:*:*:*:*:*:*" ;
+    cpe:id "2E6C7F5E-2AA4-495F-8119-D8AEBCD9C2D6" .
+
+<http://w3id.org/sepses/resource/cpe/35ABA78E-20AC-4F5B-96EB-310FFAC7DDFC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:digital_editions:-:*:*:*:*:*:*:*" ;
+    cpe:id "35ABA78E-20AC-4F5B-96EB-310FFAC7DDFC" .
+
+<http://w3id.org/sepses/resource/cpe/379D2A66-F9E1-46B9-8238-FA8CD183C2F7> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17304:-:*:*:*:*:*:*:*" ;
+    cpe:id "379D2A66-F9E1-46B9-8238-FA8CD183C2F7" .
+
+<http://w3id.org/sepses/resource/cpe/39F7BCE5-97E0-4D07-BD71-BA257658E65C> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:total_control_netserver_card:-:*:*:*:*:*:*:*" ;
+    cpe:id "39F7BCE5-97E0-4D07-BD71-BA257658E65C" .
+
+<http://w3id.org/sepses/resource/cpe/3A4E6FA0-A994-47A2-8065-389C8A20AFC0> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:adobe_air:-:*:*:*:*:*:*:*" ;
+    cpe:id "3A4E6FA0-A994-47A2-8065-389C8A20AFC0" .
+
+<http://w3id.org/sepses/resource/cpe/3DDEFD37-177D-42EC-A4B5-B9C39664A530> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13754:-:*:*:*:*:*:*:*" ;
+    cpe:id "3DDEFD37-177D-42EC-A4B5-B9C39664A530" .
+
+<http://w3id.org/sepses/resource/cpe/458F1FC3-7514-4EAE-9E5D-3F973019C041> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:netbuilder_2_bridge_router:-:*:*:*:*:*:*:*" ;
+    cpe:id "458F1FC3-7514-4EAE-9E5D-3F973019C041" .
+
+<http://w3id.org/sepses/resource/cpe/45F867C2-CAC8-43D3-83CC-838B7E00B9B5> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3crwe747a:-:*:*:*:*:*:*:*" ;
+    cpe:id "45F867C2-CAC8-43D3-83CC-838B7E00B9B5" .
+
+<http://w3id.org/sepses/resource/cpe/46D544F7-2C2D-46F4-A060-0956C51D1D14> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17702-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "46D544F7-2C2D-46F4-A060-0956C51D1D14" .
+
+<http://w3id.org/sepses/resource/cpe/46F23FC8-F2EA-476B-AC7F-8C32E6A6922B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:dreamweaver:9.0:*:*:*:*:*:*:*" ;
+    cpe:id "46F23FC8-F2EA-476B-AC7F-8C32E6A6922B" .
+
+<http://w3id.org/sepses/resource/cpe/496AAFE8-C9C2-4B3D-B801-9DC68D907680> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17203-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "496AAFE8-C9C2-4B3D-B801-9DC68D907680" .
+
+<http://w3id.org/sepses/resource/cpe/49D133F7-755D-47A2-911E-A796013B5679> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:activcard:activcard_gold_for_cac:-:*:*:*:*:*:*:*" ;
+    cpe:id "49D133F7-755D-47A2-911E-A796013B5679" .
+
+<http://w3id.org/sepses/resource/cpe/4C504D50-7EC4-4C97-A09B-EFBC2BB8CA56> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16479:-:*:*:*:*:*:*:*" ;
+    cpe:id "4C504D50-7EC4-4C97-A09B-EFBC2BB8CA56" .
+
+<http://w3id.org/sepses/resource/cpe/50E6FB13-66B2-44EE-9182-73CDAD302B8B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:tippingpoint_ips:-:*:*:*:*:*:*:*" ;
+    cpe:id "50E6FB13-66B2-44EE-9182-73CDAD302B8B" .
+
+<http://w3id.org/sepses/resource/cpe/565BD4F0-AD6C-4F3D-AC85-693381266E76> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c840-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "565BD4F0-AD6C-4F3D-AC85-693381266E76" .
+
+<http://w3id.org/sepses/resource/cpe/5765E17A-01D4-459B-A2E3-8F8F1592695E> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17708-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "5765E17A-01D4-459B-A2E3-8F8F1592695E" .
+
+<http://w3id.org/sepses/resource/cpe/5937FAFD-44DD-4218-B1B0-7BD29CD0D7B9> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3cb9e16:-:*:*:*:*:*:*:*" ;
+    cpe:id "5937FAFD-44DD-4218-B1B0-7BD29CD0D7B9" .
+
+<http://w3id.org/sepses/resource/cpe/5BD99AF0-33A4-4F35-8D88-6DC02A3BFAD6> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*" ;
+    cpe:id "5BD99AF0-33A4-4F35-8D88-6DC02A3BFAD6" .
+
+<http://w3id.org/sepses/resource/cpe/5CAF37C2-7741-4653-8DE8-C4D94AA7128C> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:act:compass:-:*:*:*:*:*:*:*" ;
+    cpe:id "5CAF37C2-7741-4653-8DE8-C4D94AA7128C" .
+
+<http://w3id.org/sepses/resource/cpe/5E47C766-CC90-4185-BC77-4A9E8281D667> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13616:-:*:*:*:*:*:*:*" ;
+    cpe:id "5E47C766-CC90-4185-BC77-4A9E8281D667" .
+
+<http://w3id.org/sepses/resource/cpe/697A7FD4-5471-4228-8726-E7E4FB113C21> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:document_server:-:*:*:*:*:*:*:*" ;
+    cpe:id "697A7FD4-5471-4228-8726-E7E4FB113C21" .
+
+<http://w3id.org/sepses/resource/cpe/6AF619DF-B38B-4B00-8D2E-BA58614304BA> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:breeze_licensed_server:-:*:*:*:*:*:*:*" ;
+    cpe:id "6AF619DF-B38B-4B00-8D2E-BA58614304BA" .
+
+<http://w3id.org/sepses/resource/cpe/6B37FE9E-0180-4AFD-862D-86494BEFEB8A> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17707-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "6B37FE9E-0180-4AFD-862D-86494BEFEB8A" .
+
+<http://w3id.org/sepses/resource/cpe/6B5D4975-E447-4AB9-BA07-1D84DF0FFEFF> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:contribute:4.1:*:*:*:*:*:*:*" ;
+    cpe:id "6B5D4975-E447-4AB9-BA07-1D84DF0FFEFF" .
+
+<http://w3id.org/sepses/resource/cpe/6D5F86F7-97CD-4702-85AC-B777163B3737> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:contribute:-:*:*:*:*:*:*:*" ;
+    cpe:id "6D5F86F7-97CD-4702-85AC-B777163B3737" .
+
+<http://w3id.org/sepses/resource/cpe/70541E97-4633-4EAF-8A65-82B9A844FBF5> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3ctftpsvc:-:*:*:*:*:*:*:*" ;
+    cpe:id "70541E97-4633-4EAF-8A65-82B9A844FBF5" .
+
+<http://w3id.org/sepses/resource/cpe/73D24CF5-6BF5-408B-B6D8-224FDB36CF99> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:adobe_php_ria_sdk:-:*:*:*:*:*:*:*" ;
+    cpe:id "73D24CF5-6BF5-408B-B6D8-224FDB36CF99" .
+
+<http://w3id.org/sepses/resource/cpe/7507A84D-BC30-450E-9A67-0A5D2B79961B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17706-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "7507A84D-BC30-450E-9A67-0A5D2B79961B" .
+
+<http://w3id.org/sepses/resource/cpe/7671AC18-9E61-484B-9DC3-2AA26BA0A357> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:adobe_content_server:-:*:*:*:*:*:*:*" ;
+    cpe:id "7671AC18-9E61-484B-9DC3-2AA26BA0A357" .
+
+<http://w3id.org/sepses/resource/cpe/77C1A0DA-6D1D-45D6-899C-4445C39FB6BE> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16986a-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "77C1A0DA-6D1D-45D6-899C-4445C39FB6BE" .
+
+<http://w3id.org/sepses/resource/cpe/78569149-A1DA-4C20-B72E-B32DDE22B668> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3cr29223:-:*:*:*:*:*:*:*" ;
+    cpe:id "78569149-A1DA-4C20-B72E-B32DDE22B668" .
+
+<http://w3id.org/sepses/resource/cpe/78E49997-705F-4877-901D-85725D2B02DC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3c15100d:-:*:*:*:*:*:*:*" ;
+    cpe:id "78E49997-705F-4877-901D-85725D2B02DC" .
+
+<http://w3id.org/sepses/resource/cpe/7BF31D6A-02A4-4D78-912D-FC1685A07901> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3cr860-95:-:*:*:*:*:*:*:*" ;
+    cpe:id "7BF31D6A-02A4-4D78-912D-FC1685A07901" .
+
+<http://w3id.org/sepses/resource/cpe/7CB90D67-4884-49AA-A12E-31519F078D83> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_200:-:*:*:*:*:*:*:*" ;
+    cpe:id "7CB90D67-4884-49AA-A12E-31519F078D83" .
+
+<http://w3id.org/sepses/resource/cpe/7E02654A-06C3-41B1-B05D-B48AB82F14A8> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:acrobat_3d:-:*:*:*:*:*:*:*" ;
+    cpe:id "7E02654A-06C3-41B1-B05D-B48AB82F14A8" .
+
+<http://w3id.org/sepses/resource/cpe/7E93ED40-CB5F-4507-8C9E-48725C1CB4AA> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3c16115-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "7E93ED40-CB5F-4507-8C9E-48725C1CB4AA" .
+
+<http://w3id.org/sepses/resource/cpe/7F7527D8-B67A-47BD-AB5C-937149242918> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:saflink:netsign_cac:-:*:*:*:*:*:*:*" ;
+    cpe:id "7F7527D8-B67A-47BD-AB5C-937149242918" .
+
+<http://w3id.org/sepses/resource/cpe/81E2F741-46D1-4390-87B0-C637F6113D6C> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:switch_4005:-:*:*:*:*:*:*:*" ;
+    cpe:id "81E2F741-46D1-4390-87B0-C637F6113D6C" .
+
+<http://w3id.org/sepses/resource/cpe/84544947-CFCA-47C2-8B0C-2D67EEC2F3F2> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17701-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "84544947-CFCA-47C2-8B0C-2D67EEC2F3F2" .
+
+<http://w3id.org/sepses/resource/cpe/85886EF9-B829-4DB5-8EFA-9E030FD69497> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_ips_1200e:-:*:*:*:*:*:*:*" ;
+    cpe:id "85886EF9-B829-4DB5-8EFA-9E030FD69497" .
+
+<http://w3id.org/sepses/resource/cpe/86DD070B-7015-4929-ADBB-63DE0FAD9677> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:director:-:*:*:*:*:*:*:*" ;
+    cpe:id "86DD070B-7015-4929-ADBB-63DE0FAD9677" .
+
+<http://w3id.org/sepses/resource/cpe/8872913B-D7C5-44A2-B5C9-86F32C874678> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13758:-:*:*:*:*:*:*:*" ;
+    cpe:id "8872913B-D7C5-44A2-B5C9-86F32C874678" .
+
+<http://w3id.org/sepses/resource/cpe/89DE098D-E9B1-49E8-8D09-06B23F00A2F4> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c8432:-:*:*:*:*:*:*:*" ;
+    cpe:id "89DE098D-E9B1-49E8-8D09-06B23F00A2F4" .
+
+<http://w3id.org/sepses/resource/cpe/8B54CF6C-082C-4A61-A918-E7D36401D84E> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3crwe754g72-a:-:*:*:*:*:*:*:*" ;
+    cpe:id "8B54CF6C-082C-4A61-A918-E7D36401D84E" .
+
+<http://w3id.org/sepses/resource/cpe/909DCEF6-3D4C-4708-AD5D-6527C8F88000> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c39024-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "909DCEF6-3D4C-4708-AD5D-6527C8F88000" .
+
+<http://w3id.org/sepses/resource/cpe/9C2065ED-F8FC-40F3-B1D8-6CB9EB2B3641> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_600e:-:*:*:*:*:*:*:*" ;
+    cpe:id "9C2065ED-F8FC-40F3-B1D8-6CB9EB2B3641" .
+
+<http://w3id.org/sepses/resource/cpe/A076CED2-04A2-40A6-9251-FA3EA6C7FA9D> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16950-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "A076CED2-04A2-40A6-9251-FA3EA6C7FA9D" .
+
+<http://w3id.org/sepses/resource/cpe/A081AD92-4672-4CAD-927D-49CD531A73E6> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c8462:-:*:*:*:*:*:*:*" ;
+    cpe:id "A081AD92-4672-4CAD-927D-49CD531A73E6" .
+
+<http://w3id.org/sepses/resource/cpe/A1693403-114E-4942-A635-D77039926791> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16486:-:*:*:*:*:*:*:*" ;
+    cpe:id "A1693403-114E-4942-A635-D77039926791" .
+
+<http://w3id.org/sepses/resource/cpe/A27DD7AB-702A-4474-9868-4D8BE5574FBC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3cp4144:-:*:*:*:*:*:*:*" ;
+    cpe:id "A27DD7AB-702A-4474-9868-4D8BE5574FBC" .
+
+<http://w3id.org/sepses/resource/cpe/A4F9733C-9FD2-4B73-96CC-B24445A41BF0> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:actividentity:activclient_cac:-:*:*:*:*:*:*:*" ;
+    cpe:id "A4F9733C-9FD2-4B73-96CC-B24445A41BF0" .
+
+<http://w3id.org/sepses/resource/cpe/A7717763-CC8B-4F84-84CD-D9564F3D75F8> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17401:-:*:*:*:*:*:*:*" ;
+    cpe:id "A7717763-CC8B-4F84-84CD-D9564F3D75F8" .
+
+<http://w3id.org/sepses/resource/cpe/A8F3D7AD-B54F-46DA-95C5-9D9B882BAE38> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16988a-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "A8F3D7AD-B54F-46DA-95C5-9D9B882BAE38" .
+
+<http://w3id.org/sepses/resource/cpe/AA40654E-56B3-42D1-9755-EF17127BDD92> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:acrobat_reader:-:*:*:*:*:*:*:*" ;
+    cpe:id "AA40654E-56B3-42D1-9755-EF17127BDD92" .
+
+<http://w3id.org/sepses/resource/cpe/AB51275C-8B0B-43C5-995E-7ECC82A8DCE1> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13750:-:*:*:*:*:*:*:*" ;
+    cpe:id "AB51275C-8B0B-43C5-995E-7ECC82A8DCE1" .
+
+<http://w3id.org/sepses/resource/cpe/BAE41D20-D4AF-4AF0-AA7D-3BD04DA402A7> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3cdaemon:-:*:*:*:*:*:*:*" ;
+    cpe:id "BAE41D20-D4AF-4AF0-AA7D-3BD04DA402A7" .
+
+<http://w3id.org/sepses/resource/cpe/BB228D16-764D-45F3-AD83-0025D37E150B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16811-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "BB228D16-764D-45F3-AD83-0025D37E150B" .
+
+<http://w3id.org/sepses/resource/cpe/BB853510-3407-4C5B-BD27-69C71B9201AE> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3crtpx505-73:-:*:*:*:*:*:*:*" ;
+    cpe:id "BB853510-3407-4C5B-BD27-69C71B9201AE" .
+
+<http://w3id.org/sepses/resource/cpe/BE438F25-4C13-48B2-B8E7-159412D2F5CA> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:activestate:activeperl:-:*:*:*:*:*:*:*" ;
+    cpe:id "BE438F25-4C13-48B2-B8E7-159412D2F5CA" .
+
+<http://w3id.org/sepses/resource/cpe/C1310E7E-0C86-4183-B4B2-18A8303C6B99> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:141701:-:*:*:*:*:*:*:*" ;
+    cpe:id "C1310E7E-0C86-4183-B4B2-18A8303C6B99" .
+
+<http://w3id.org/sepses/resource/cpe/C1E2F4B9-646C-43F3-A461-CF7EA8D5A550> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:nbx_1000:-:*:*:*:*:*:*:*" ;
+    cpe:id "C1E2F4B9-646C-43F3-A461-CF7EA8D5A550" .
+
+<http://w3id.org/sepses/resource/cpe/C2EF596E-1975-48C6-B607-6461835736FD> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:superstack_ii_2000:-:*:*:*:*:*:*:*" ;
+    cpe:id "C2EF596E-1975-48C6-B607-6461835736FD" .
+
+<http://w3id.org/sepses/resource/cpe/C3D8F123-B178-43E2-8305-2F9D83FFA28B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:creative_suite:-:*:*:*:*:*:*:*" ;
+    cpe:id "C3D8F123-B178-43E2-8305-2F9D83FFA28B" .
+
+<http://w3id.org/sepses/resource/cpe/C849FC5F-7970-4770-8A3A-416DCFDF9A45> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:captivate:-:*:*:*:*:*:*:*" ;
+    cpe:id "C849FC5F-7970-4770-8A3A-416DCFDF9A45" .
+
+<http://w3id.org/sepses/resource/cpe/CD174BAD-915B-449C-BB27-F618A3053F97> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c250100a:-:*:*:*:*:*:*:*" ;
+    cpe:id "CD174BAD-915B-449C-BB27-F618A3053F97" .
+
+<http://w3id.org/sepses/resource/cpe/D09E4B5A-E930-45C6-8D7A-E98CCE7CFA6E> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:acrobat_elements:-:*:*:*:*:*:*:*" ;
+    cpe:id "D09E4B5A-E930-45C6-8D7A-E98CCE7CFA6E" .
+
+<http://w3id.org/sepses/resource/cpe/D532BD9F-F7F3-41AA-B46C-5AA25D596DCC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16485:-:*:*:*:*:*:*:*" ;
+    cpe:id "D532BD9F-F7F3-41AA-B46C-5AA25D596DCC" .
+
+<http://w3id.org/sepses/resource/cpe/D76DE3F0-1884-4065-939F-DF41DFE1B08B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:webbngss3nbxnts:-:*:*:*:*:*:*:*" ;
+    cpe:id "D76DE3F0-1884-4065-939F-DF41DFE1B08B" .
+
+<http://w3id.org/sepses/resource/cpe/D8097A9F-E31D-4148-B763-5F3383573B8B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3crx506-96:-:*:*:*:*:*:*:*" ;
+    cpe:id "D8097A9F-E31D-4148-B763-5F3383573B8B" .
+
+<http://w3id.org/sepses/resource/cpe/D9E25266-9EBC-4F46-831E-A63F02146516> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17400:-:*:*:*:*:*:*:*" ;
+    cpe:id "D9E25266-9EBC-4F46-831E-A63F02146516" .
+
+<http://w3id.org/sepses/resource/cpe/DA942789-2035-47D1-90F6-05DDF57DED44> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c13612:-:*:*:*:*:*:*:*" ;
+    cpe:id "DA942789-2035-47D1-90F6-05DDF57DED44" .
+
+<http://w3id.org/sepses/resource/cpe/DB3326B3-EC92-43A8-91A8-63692D6A6929> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:switch_4007r:-:*:*:*:*:*:*:*" ;
+    cpe:id "DB3326B3-EC92-43A8-91A8-63692D6A6929" .
+
+<http://w3id.org/sepses/resource/cpe/DB39AC4B-B09F-4BDD-AE4F-0256F680C3BF> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17205-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "DB39AC4B-B09F-4BDD-AE4F-0256F680C3BF" .
+
+<http://w3id.org/sepses/resource/cpe/DCD7E0EC-8D8E-4A81-858E-CD53FA372CD3> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_2400e:-:*:*:*:*:*:*:*" ;
+    cpe:id "DCD7E0EC-8D8E-4A81-858E-CD53FA372CD3" .
+
+<http://w3id.org/sepses/resource/cpe/DD5873F4-4815-442C-93DD-9860CCE39326> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_5000e:-:*:*:*:*:*:*:*" ;
+    cpe:id "DD5873F4-4815-442C-93DD-9860CCE39326" .
+
+<http://w3id.org/sepses/resource/cpe/DFB483A6-4F16-4B87-A385-F1D25796E5E3> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3crwe454g72:-:*:*:*:*:*:*:*" ;
+    cpe:id "DFB483A6-4F16-4B87-A385-F1D25796E5E3" .
+
+<http://w3id.org/sepses/resource/cpe/E1195C0D-A174-4B66-8AEE-661CC06C3323> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c16987a-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "E1195C0D-A174-4B66-8AEE-661CC06C3323" .
+
+<http://w3id.org/sepses/resource/cpe/E62A70FA-86F7-4AF1-897D-CF76F0AF3C76> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:dreamweaver:6.1:*:*:*:*:*:*:*" ;
+    cpe:id "E62A70FA-86F7-4AF1-897D-CF76F0AF3C76" .
+
+<http://w3id.org/sepses/resource/cpe/E79D7925-5009-4C12-B6ED-A1915E38F14B> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17204-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "E79D7925-5009-4C12-B6ED-A1915E38F14B" .
+
+<http://w3id.org/sepses/resource/cpe/EA1DDF77-7A27-47F2-9C17-5EFE0C6CD66D> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:adobe:download_manager:-:*:*:*:*:*:*:*" ;
+    cpe:id "EA1DDF77-7A27-47F2-9C17-5EFE0C6CD66D" .
+
+<http://w3id.org/sepses/resource/cpe/EA3C5D8F-9153-4596-A49E-77D46CC8F054> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:superstack_3_switch_4924:-:*:*:*:*:*:*:*" ;
+    cpe:id "EA3C5D8F-9153-4596-A49E-77D46CC8F054" .
+
+<http://w3id.org/sepses/resource/cpe/EAD764F7-6E03-430A-A703-9601C32912CC> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3cnj220:-:*:*:*:*:*:*:*" ;
+    cpe:id "EAD764F7-6E03-430A-A703-9601C32912CC" .
+
+<http://w3id.org/sepses/resource/cpe/EAE3801C-14C8-471B-8650-582E0D565A6D> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:activestate:activepython:-:*:*:*:*:*:*:*" ;
+    cpe:id "EAE3801C-14C8-471B-8650-582E0D565A6D" .
+
+<http://w3id.org/sepses/resource/cpe/EFA6BF89-F088-4672-96D7-34A58D7B4993> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17210-us:-:*:*:*:*:*:*:*" ;
+    cpe:id "EFA6BF89-F088-4672-96D7-34A58D7B4993" .
+
+<http://w3id.org/sepses/resource/cpe/F0769C40-71DB-4121-BCD4-3CECE7DFCCD7> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c8532:-:*:*:*:*:*:*:*" ;
+    cpe:id "F0769C40-71DB-4121-BCD4-3CECE7DFCCD7" .
+
+<http://w3id.org/sepses/resource/cpe/F166C858-A511-41B6-8EB0-93D3E69F6345> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17300:-:*:*:*:*:*:*:*" ;
+    cpe:id "F166C858-A511-41B6-8EB0-93D3E69F6345" .
+
+<http://w3id.org/sepses/resource/cpe/FE501585-0A17-43E1-B937-8EACEFCF06D8> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:tippingpoint_sms_server:-:*:*:*:*:*:*:*" ;
+    cpe:id "FE501585-0A17-43E1-B937-8EACEFCF06D8" .
+
+<http://w3id.org/sepses/resource/cpe/FE816980-505D-41FA-A998-98A7E3234FFF> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:h:3com:3c17302:-:*:*:*:*:*:*:*" ;
+    cpe:id "FE816980-505D-41FA-A998-98A7E3234FFF" .
+
+<http://w3id.org/sepses/resource/cpe/FFADC2E2-6888-490E-98CB-6D86D2E893A6> a cpe:CPE ;
+    cpe:cpe23Uri "cpe:2.3:a:3com:3cserver:-:*:*:*:*:*:*:*" ;
+    cpe:id "FFADC2E2-6888-490E-98CB-6D86D2E893A6" .
+

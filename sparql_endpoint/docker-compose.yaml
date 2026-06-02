@@ -1,0 +1,14 @@
+services:
+  virtuoso:
+    image: openlink/virtuoso-opensource-7:latest
+    container_name: sepses-virtuoso
+    environment:
+      DBA_PASSWORD: dba
+      SPARQL_UPDATE: 'true'
+    ports:
+      - '8890:8890'
+      - '1111:1111'
+    volumes:
+      - ./data:/database/data
+      - ./toload:/database/toload
+    restart: unless-stopped

@@ -1,0 +1,822 @@
+@prefix cpe: <http://w3id.org/sepses/vocab/ref/cpe#> .
+@prefix cve: <http://w3id.org/sepses/vocab/ref/cve#> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0066> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ajohn_s._robertsanyform1.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ajohn_s._robertsanyform2.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0077> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3omicrosoftwindows_nt4.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0082> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3aftpcdftpcd********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3aftpftp********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0084> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3asunnfs********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0095> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail5.58*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0113> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.5*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0117> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0120> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos-*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0124> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3auniversity_of_minnesotagopherd********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0145> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0151> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3asatansatan1.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3asatansatan1.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0155> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3aaladdin_enterprisesghostscript2.6*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3aaladdin_enterprisesghostscript3.22*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0161> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios10.3_(3.4_)*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios10.3_(4.2_)*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0164> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.4*x86*****> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0167> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0168> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0172> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3amatt_wrightformmail********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0181> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3arpc.walldrpc.walld********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0203> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail8.6.10*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0207> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3agreat_circle_associatesmajordomo1.90*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3agreat_circle_associatesmajordomo1.91*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0209> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos3.5*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0211> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0214> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0232> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ancsa_httpd_projectncsa_httpd1.5c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0235> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0242> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oslackwareslackware_linux********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0245> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3olinuxlinux_kernel2.6.20.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0312> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0334> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsolaris**x86*****>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0337> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix1.2.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix2.2.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0338> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.5*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0423> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0498> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0627> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1021> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1022> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.3*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1032> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1034> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oattsvr44.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1056> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1057> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalvms********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1059> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oattsvr44.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1080> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.7*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1090> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ancsatelnet********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1098> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1115> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_os*beta******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_ossr10.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1119> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix**32-bit*****> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1121> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1122> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1123> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1134> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1135> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1137> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsolaris********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1138> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop1.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_4.x*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1142> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1146> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1162> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1193> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1194> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1197> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1198> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1211> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1212> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1215> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3onovellnetware4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3onovellnetware4.01*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1216> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter8.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter8.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter9.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter9.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1218> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ocommodoreamiga_unix********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1219> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1238> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1239> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1242> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9.00*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9.01*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1243> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix6.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1248> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.00*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.02*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.06*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1258> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1302> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_enterprise_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_network_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1303> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_enterprise_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_network_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1304> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_enterprise_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_network_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1305> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_enterprise_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_network_system3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1306> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1310> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1312> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms_axp1.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms_vax********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1318> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1388> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1391> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext1.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext1.0a*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1392> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3anextnex1.0a*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext1.0*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1395> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1b*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.2.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1396> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1415> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1438> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1466> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios8.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios8.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios9.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios9.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1467> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1468> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext2.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3anextnext2.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.0e*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3c*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1psr_a*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1471> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd4.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd4.3*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1493> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_os********> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1494> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix6.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix6.0.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1506> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos3.5*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3c*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1507> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3u1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1psr_a*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1552> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix********>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.4*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1554> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.1*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1580> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.59*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.61*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.65*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3u1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.4*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.4jl*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0388> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.3*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.4*******> .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0508> a cve:CVE ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/cpe2.3odebiandebian_linux2.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3odebiandebian_linux2.2*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux6.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux6.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux7.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.0*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.1*******>,
+        <http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.2*******> .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aaladdin_enterprisesghostscript2.6*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aaladdin_enterprisesghostscript3.22*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.0.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.1b*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.2.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.3.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms5.4.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms_axp1.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3adecdec_openvms_vax********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail5.58*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aeric_allmansendmail8.6.10*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aftpcdftpcd********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3aftpftp********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3agreat_circle_associatesmajordomo1.90*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3agreat_circle_associatesmajordomo1.91*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ajohn_s._robertsanyform1.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ajohn_s._robertsanyform2.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3amatt_wrightformmail********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ancsa_httpd_projectncsa_httpd1.5c*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ancsancsa_web_server1.4.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ancsatelnet********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnex1.0a*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnext1.0a*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnext2.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnext2.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3arpc.walldrpc.walld********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asatansatan1.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asatansatan1.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.59*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.61*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asendmailsendmail5.65*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3asunnfs********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3auniversity_of_minnesotagopherd********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter8.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter8.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter9.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3hciscorouter9.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd4.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3obsdbsd4.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios10.3_(3.4_)*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios10.3_(4.2_)*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios8.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios8.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios9.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ociscoios9.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ocommodoreamiga_unix********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.0e*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ocrayunicos6.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odebiandebian_linux2.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odebiandebian_linux2.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odigitalvms********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ofreebsdfreebsd3.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_os********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_os*beta******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohpapollo_domain_ossr10.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.00*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.02*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8.06*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9.00*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9.01*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix**32-bit*****> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix1.2.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix1.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix2.2.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3olinuxlinux_kernel2.6.20.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux6.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux6.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3omandrakesoftmandrake_linux7.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3omicrosoftwindows_nt4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3onovellnetware4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3onovellnetware4.01*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oredhatlinux6.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop1.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop1.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_2.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounixsystem_v386_3.2_operating_system_4.x*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.1.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix6.0.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oslackwareslackware_linux********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsolaris********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsolaris**x86*****> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos-*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.4jl*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.4*x86*****> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.7*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnext********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3anextnext1.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oattsvr44.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3odigitalultrix4.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux8*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.5*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix3.3.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix6.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos3.5*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3u1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1psr_a*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2.4*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos5.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux9*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_enterprise_system3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopenserver_network_system3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounix3.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounix4.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osgiirix5.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3c*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3ohphp-ux********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oibmaix3.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop_lite3.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscounix********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.3c*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3oscoopen_desktop2.0*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos********> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.0.3*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.2*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1*******> a cpe:CPE .
+
+<http://w3id.org/sepses/resource/cpe/cpe2.3osunsunos4.1.1*******> a cpe:CPE .
+
