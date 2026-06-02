@@ -119,7 +119,7 @@ python verify.py
 | Name | GitHub | Role |
 |---|---|---|
 | Atha Putra Fausta | [@ahtape](https://github.com/ahtape) | Validation Agent & Evaluation |
-| Fikar Adi Nugraha | [@Gatoetkatja](https://github.com/Gatoetkatja) | Fetcher Agent SPARQL Endpoint |
+| Fikar Adi Nugraha | [@Gatoetkatja](https://github.com/Gatoetkatja) | Fetcher Agent & SPARQL Endpoint |
 | Abdul Hamid Awaludin Ardiansyah | [@asistink](https://github.com/asistink) | Linking Agent & Evaluation |
 | Khoirul Adib Fairuza | [@feinru](https://github.com/feinru) | Parser Agent & SPARQL Endpoint |
 
