@@ -60,19 +60,24 @@ class OntologyMapper:
             mapped["sepses:vulnerabilityName"] = raw_entity.get("vulnerabilityName")
 
         elif source_name.startswith("attck"):
-            mapped["@type"] = "sepses:AttackPattern" # Maps STIX attack-pattern
-            # Only map objects that are attack-patterns
+            mapped["@type"] = "sepses:AttackPattern"
             if raw_entity.get("type") == "attack-pattern":
+                
+                # Skip entitas yang sudah revoked atau deprecated
+                if raw_entity.get("revoked") or raw_entity.get("x_mitre_deprecated"):
+                    return {}
+                    
                 mapped["sepses:id"] = raw_entity.get("id")
                 mapped["sepses:name"] = raw_entity.get("name")
                 mapped["sepses:description"] = raw_entity.get("description")
-                
-                # Extract external references (like T-codes)
+
                 for ext_ref in raw_entity.get("external_references", []):
                     if ext_ref.get("source_name") == "mitre-attack":
                         mapped["sepses:techniqueId"] = ext_ref.get("external_id")
+                        mapped["__uri_key__"] = ext_ref.get("external_id")
+                        break
             else:
-                return {} # Skip non attack-pattern objects for now
+                return {}
 
         else:
             mapped["@type"] = "sepses:Unknown"

@@ -10,3 +10,4 @@ class FetcherState(MessagesState):
     current_source: str
     results:        list[dict]
     all_done:       bool
+    retry_count:    int

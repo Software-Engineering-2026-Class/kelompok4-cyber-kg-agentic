@@ -5,7 +5,7 @@ print("  FETCHER AGENT — Cybersecurity KG Pipeline")
 print("=" * 50)
 
 # Ganti instruksi di bawah sesuai kebutuhan:
-instruksi = "Fetch data CVE dan CWE cybersecurity yang tersedia."
+instruksi = "Fetch semua data cybersecurity yang tersedia."
 # instruksi = "Fetch semua data cybersecurity yang tersedia."
 # instruksi = "Saya butuh data CVE dan CWE untuk analisis kerentanan."
 

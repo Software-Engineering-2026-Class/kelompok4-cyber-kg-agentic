@@ -326,9 +326,10 @@ def _link_capec_to_attck_xml(g: Graph, file_path: str, predicate: URIRef) -> int
                             entry_tag = _strip_ns(entry.tag)
                             if entry_tag == "Entry_ID" and entry.text:
                                 technique_id = entry.text.strip()
-                                object_uri = URIRef(
-                                    RESOURCE_BASE["attck"] + technique_id
-                                )
+                                # Tambah prefix T kalau belum ada
+                                if not technique_id.startswith("T"):
+                                    technique_id = "T" + technique_id
+                                object_uri = URIRef(RESOURCE_BASE["attck"] + technique_id)
                                 g.add((subject_uri, predicate, object_uri))
                                 g.add((object_uri, RDF.type, NS_ATTCK.AttackPattern))
                                 count += 1
@@ -368,6 +369,8 @@ def _link_capec_to_attck_json(g: Graph, file_path: str, predicate: URIRef) -> in
             if "ATTACK" in taxonomy_name.upper():
                 entry_id = mapping.get("Entry_ID", "")
                 if entry_id:
+                    if not entry_id.startswith("T"):
+                        entry_id = "T" + entry_id
                     object_uri = URIRef(RESOURCE_BASE["attck"] + entry_id)
                     g.add((subject_uri, predicate, object_uri))
                     g.add((object_uri, RDF.type, NS_ATTCK.AttackPattern))

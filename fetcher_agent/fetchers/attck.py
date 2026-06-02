@@ -1,5 +1,6 @@
 # fetchers/attck.py
 import requests
+import json
 from .base import BaseFetcher, CACHE_DIR
 
 # URL download langsung — lebih stabil daripada lewat GitHub API
@@ -47,3 +48,50 @@ class ATTCKFetcher(BaseFetcher):
         print(f"  [{self.source_name}] Tersimpan: {file_path}")
         # Return sebagai satu record berisi path file
         return [{"source": self.source_name, "file": str(file_path)}]
+    
+    def run(self) -> dict:
+        print(f"\n[{self.source_name.upper()}] Memulai...")
+
+        if not self.needs_update():
+            print(f"  [{self.source_name}] Sudah up-to-date, pakai cache.")
+            file_path = CACHE_DIR / f"{self.source_name}.json"
+            # Hitung records dari file yang ada
+            with open(file_path) as f:
+                raw = json.load(f)
+            records = len(raw.get("objects", [])) if isinstance(raw, dict) else 0
+            return {
+                "source": self.source_name,
+                "status": "cached",
+                "records": records,
+                "file_path": str(file_path),
+                "error": None,
+            }
+
+        try:
+            self.fetch()  # fetch() sudah handle simpan file sendiri
+            
+            # Hitung jumlah attack-pattern objects
+            file_path = CACHE_DIR / f"{self.source_name}.json"
+            with open(file_path) as f:
+                raw = json.load(f)
+            records = len([o for o in raw.get("objects", []) if o.get("type") == "attack-pattern"])
+
+            version = self.get_remote_version()
+            if version:
+                self.save_local_version(version)
+
+            return {
+                "source": self.source_name,
+                "status": "success",
+                "records": records,
+                "file_path": str(file_path),
+                "error": None,
+            }
+        except Exception as e:
+            return {
+                "source": self.source_name,
+                "status": "failed",
+                "records": 0,
+                "file_path": "",
+                "error": str(e),
+            }
