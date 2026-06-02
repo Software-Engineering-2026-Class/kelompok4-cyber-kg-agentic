@@ -51,6 +51,23 @@ def executor(state: ValidationState) -> ValidationState:
         for prefix, uri in NAMESPACES.items():
             g.bind(prefix, URIRef(uri))
 
+        # Load base data dari parser_agent/output sebagai konteks tambahan
+        parser_output_dir = Path("parser_agent/output")
+        BASE_TTL_FILES = [
+            "attck_enterprise.ttl",
+            "attck_ics.ttl",
+            "capec.ttl",
+            "cwe.ttl",
+            "cve.ttl",
+            "cpe.ttl",
+            "icsa.ttl",
+        ]
+        for base_file in BASE_TTL_FILES:
+            base_path = parser_output_dir / base_file
+            if base_path.exists():
+                g.parse(str(base_path), format="turtle")
+
+        # Baru load file linking yang sedang divalidasi
         g.parse(file_path, format="turtle")
         total_triples = len(g)
         result["total_triples"] = total_triples
