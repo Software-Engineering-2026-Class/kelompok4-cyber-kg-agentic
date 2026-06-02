@@ -96,3 +96,18 @@ python load.py
 ```bash
 python verify.py
 ```
+
+## Expected Outputs
+
+- **Fetcher Agent:** Raw cybersecurity data files (JSON, XML, CSV, etc.) stored in `fetcher_agent/cache/`.
+- **Parser Agent:** Intermediate parsed Turtle (`.ttl`) files mapped to SEPSES ontology.
+- **Linking Agent:** Linked Turtle files containing relationship triples, saved in `linking_agent/output/`.
+- **Validation Agent:** Validation reports summarizing triple counts, subjects, errors, and warnings.
+- **SPARQL Endpoint:** A fully queryable Knowledge Graph at `http://localhost:8890/sparql` with named graphs such as `http://w3id.org/sepses/graph/cve` and links like `http://w3id.org/sepses/graph/cve_to_cwe`.
+
+## Known Limitations
+
+- **Performance Constraints:** Loading very large datasets (like the full NVD dataset) into Virtuoso locally may consume significant RAM and take a long time.
+- **Missing Triples:** The validation agent might flag missing mandatory triples if the upstream data source (e.g., MITRE or NVD) has incomplete entries.
+- **Sequential Dependency:** The pipeline currently requires manual sequential execution. If `fetcher_agent` fails or updates partial data, downstream agents must be re-run manually.
+- **Stale Data:** Fetched data is cached; you must clear the cache or adjust fetch instructions to pull the latest upstream vulnerability advisories.
