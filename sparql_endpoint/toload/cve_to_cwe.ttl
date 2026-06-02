@@ -1,83 +1,1420 @@
 @prefix cve: <http://w3id.org/sepses/vocab/ref/cve#> .
 @prefix cwe: <http://w3id.org/sepses/vocab/ref/cwe#> .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0002> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-119> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0003> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0004> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0005> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0006> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-125> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0007> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-327> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0008> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0009> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0010> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0011> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-1067> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0012> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-290> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0013> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-522> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0014> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0015> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0016> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0017> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0018> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0019> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0020> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0021> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0022> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-125> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0023> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0024> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0025> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0026> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0027> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-119> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0028> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0029> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-125> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0030> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0031> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0032> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0033> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0034> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0035> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-364> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0036> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-434> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0037> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0038> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-120> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0039> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-77> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0040> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0041> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0042> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0043> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-78> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0044> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0045> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0046> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-120> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0047> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0048> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0049> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0050> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0051> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0052> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-476> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0053> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0054> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0055> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0056> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0057> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0058> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0059> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0060> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0061> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0062> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0063> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0064> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0065> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0066> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0067> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-78> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0068> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0069> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-119> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0070> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0071> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0072> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0073> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0074> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0075> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0076> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0077> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0078> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0079> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0080> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0081> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0082> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0083> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0084> a cve:CVE ;
     cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-269> .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0085> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0086> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0087> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0088> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0089> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0090> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0091> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0092> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0093> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0094> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0095> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0096> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0097> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0098> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0099> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0100> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0101> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0102> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0103> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0104> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0105> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0106> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0107> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0108> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0109> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0110> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0111> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0112> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0113> a cve:CVE ;
     cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-88> .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0114> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0115> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0116> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0117> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0118> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0119> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0120> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0121> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0122> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0123> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0124> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0125> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0126> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0127> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0128> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0129> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0130> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0131> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0132> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0133> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0134> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0135> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0136> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0137> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0138> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0139> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0141> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0142> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0143> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0144> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0145> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0146> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0147> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0148> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0149> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0150> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0151> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0152> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0153> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0155> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0156> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0157> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0158> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0159> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-400> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0160> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0161> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0162> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0163> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0164> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0165> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0166> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0167> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0168> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0169> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0170> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0171> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0172> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0173> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0174> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0175> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0176> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0177> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0178> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0179> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-17> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0180> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0181> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0182> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0183> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0184> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0185> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0186> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0187> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0188> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0189> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0190> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0191> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0192> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0193> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0195> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0196> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0197> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0198> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0200> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0201> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0202> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0203> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0204> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0205> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0206> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0207> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0208> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0209> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0210> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0211> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0212> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0213> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0214> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0215> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0216> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0217> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0218> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0219> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0220> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0221> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0222> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0223> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0225> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0226> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-19> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0227> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-264> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0228> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0230> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0231> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0232> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0233> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0234> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0235> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0236> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0237> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0238> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0239> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-178> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0240> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0241> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0242> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0243> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0244> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0245> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0246> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0247> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0248> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0249> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0250> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0251> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0252> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0253> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0254> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0255> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0256> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0257> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0258> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0259> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0260> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0261> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0262> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0263> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0264> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0265> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-20> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0266> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0267> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0268> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0269> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0270> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0271> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0272> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0273> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0274> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0275> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0276> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0277> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0278> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0279> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0280> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0281> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0282> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0283> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0284> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-120> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0285> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0286> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0287> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0288> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0290> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0291> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0292> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0293> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0294> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0295> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0296> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0297> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0298> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0299> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0300> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0301> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0302> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0303> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0304> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0305> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0306> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0308> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0309> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0310> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0311> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0312> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0313> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0314> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0315> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0316> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0318> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0319> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0320> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0321> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0322> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0323> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0324> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0325> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0326> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0327> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0328> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0329> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0330> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0331> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0332> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-119> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0333> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0334> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0335> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0336> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0337> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0338> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0339> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0340> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0341> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0342> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0343> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0344> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-264> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0345> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0346> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0347> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0348> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0349> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-119> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0350> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0351> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0352> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0353> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0355> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0356> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0357> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0358> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0360> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0361> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0362> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0363> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0364> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0365> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0366> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-287> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0367> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0368> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0369> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0370> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0371> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0372> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0373> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0374> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0375> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0376> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0377> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0378> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0379> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0380> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0381> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0382> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0383> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0384> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0385> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-120> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0386> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0388> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0389> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0390> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0391> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0392> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0393> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0394> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0395> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0396> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0397> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0398> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0399> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0400> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0401> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0402> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0403> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0404> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0405> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0406> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0407> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0408> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0409> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0410> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0411> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0412> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0413> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0414> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0415> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0416> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0417> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0418> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0419> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0420> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0421> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0422> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0423> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0424> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0425> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0426> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-276> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0428> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-384> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0429> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0430> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0431> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0432> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0433> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0434> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0435> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0436> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0437> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0438> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0439> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0440> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0441> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0442> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0443> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0445> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0447> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0448> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0449> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0450> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0451> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0452> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0453> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0454> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0457> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0458> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0459> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0460> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0461> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0462> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0463> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0464> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0465> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0467> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0468> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0469> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0470> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0471> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0472> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0473> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0474> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0475> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0476> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0478> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0479> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0480> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0481> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0482> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0483> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0484> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0485> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0486> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0494> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0495> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0496> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-264> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0497> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-0498> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-0499> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0501> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0502> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0503> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0504> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0505> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0506> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0507> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0508> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0509> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-94> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0510> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0511> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0512> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0513> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0514> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0515> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0516> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0517> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0518> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0519> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0520> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0521> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0522> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0523> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0524> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0525> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0526> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0527> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0528> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0529> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0530> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0531> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0532> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0533> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0534> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0535> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0537> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0539> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0541> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0546> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0547> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0548> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0549> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0550> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0551> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0554> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0555> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0556> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0559> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0560> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0561> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0562> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0564> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0565> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0566> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0568> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0569> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0570> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0571> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0572> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0575> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0576> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0577> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0578> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0579> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0580> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0581> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0582> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0583> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0584> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0586> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0587> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0588> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0589> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0591> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0592> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0593> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0594> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0596> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0597> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0598> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0599> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0600> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0601> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0602> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0603> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0605> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0606> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0608> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0609> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0610> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0611> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0612> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0613> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0614> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0615> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0616> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0617> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0618> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0619> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0620> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0621> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0622> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0623> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0624> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0625> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0626> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-0627> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0628> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0629> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0630> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0631> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0632> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0633> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0634> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0635> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0636> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0637> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0638> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0639> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0640> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0641> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0642> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0643> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0644> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0645> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0646> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0647> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0648> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0649> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0650> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0651> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0652> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0653> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0654> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0655> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0656> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-16> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0657> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0658> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0659> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0660> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0661> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0662> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0663> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0664> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0665> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0667> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0678> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0698> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0714> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0779> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0780> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0781> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0782> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0783> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-59> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0792> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0795> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0796> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0797> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0798> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0799> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0801> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0816> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0836> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0868> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0869> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0870> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0871> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0897> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0914> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0919> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0921> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0930> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0936> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0937> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0941> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0952> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0955> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0956> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0957> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0958> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0959> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0960> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0961> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0962> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0965> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0966> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0967> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0968> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0969> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-0971> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1015> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1020> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1021> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1022> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1025> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1026> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1027> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1032> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1034> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1036> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1037> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1038> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1039> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1040> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1041> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1044> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1045> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1046> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1048> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1049> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1054> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1056> a cve:CVE .
 
@@ -85,15 +1422,69 @@
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1059> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1060> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1061> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1062> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1067> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1068> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1069> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1070> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1071> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1072> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1073> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1075> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1080> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1085> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1088> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1089> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1090> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1095> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1096> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1098> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1099> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1101> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1103> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1106> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1107> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1108> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1113> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1114> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1115> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1116> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1118> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1119> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1120> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1121> a cve:CVE .
 
@@ -101,51 +1492,280 @@
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1123> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1125> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1128> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1131> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1133> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1134> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1135> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1136> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-200> .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1137> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1138> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1139> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1140> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1141> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1142> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1143> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1144> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1145> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1146> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1147> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1149> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1150> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1151> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1152> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-307> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1153> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1154> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1155> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1158> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1159> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1160> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1161> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1162> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1168> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1169> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1170> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1171> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1172> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1173> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1176> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1178> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1179> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1180> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1181> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1182> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1183> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1184> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1185> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1186> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1187> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1188> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1191> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1192> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1193> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1194> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1196> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1197> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1198> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1199> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1200> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1201> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1202> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1203> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1204> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1205> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1207> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1208> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1209> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1210> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1211> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1212> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1213> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1214> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-255> .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1215> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1216> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1217> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1218> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1219> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1220> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1221> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1224> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1225> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1228> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1229> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1230> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1232> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1238> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1239> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1240> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1242> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1243> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1245> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1247> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1248> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1249> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1250> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1251> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1252> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1253> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1254> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1255> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1256> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1257> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1258> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1260> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1261> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1262> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1264> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1265> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1266> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1267> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1268> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1269> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1270> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1271> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1272> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1273> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1274> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1275> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1276> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1277> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1278> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1280> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1281> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1282> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1283> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1284> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1285> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1286> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1288> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1289> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1291> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1292> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1295> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1296> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1297> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1298> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1299> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1301> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1302> a cve:CVE .
 
@@ -157,13 +1777,60 @@
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1306> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1308> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1309> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1310> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1311> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1312> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1313> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1314> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1318> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1319> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1321> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1322> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1326> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1361> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1370> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1371> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1372> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1375> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1376> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1380> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1381> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1383> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-264> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1384> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1385> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1387> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1388> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1389> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1390> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1391> a cve:CVE .
 
@@ -173,9 +1840,111 @@
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1396> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1397> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1398> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1399> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1401> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1402> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1403> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1404> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1405> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1406> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1407> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1408> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1409> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1410> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1411> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1413> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1415> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1416> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1417> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1419> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1420> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1421> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1422> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1423> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1424> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1425> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1426> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1427> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1428> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1429> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1430> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1432> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1433> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1434> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1435> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1436> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1437> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1438> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1439> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1440> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1441> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1442> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1443> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1445> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1446> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1447> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1448> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1449> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1450> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1453> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1458> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1459> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1461> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1463> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1466> a cve:CVE .
 
@@ -185,25 +1954,164 @@
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1471> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1479> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1480> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1482> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1483> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1486> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1487> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1489> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1490> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1491> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1492> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1493> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1494> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1495> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1498> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1499> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1501> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1502> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1503> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1504> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1505> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1506> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1507> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1525> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1526> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1538> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1544> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1546> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1551> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1552> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-1999-1554> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cve/CVE-1999-1555> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1556> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1558> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1559> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1567> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1568> a cve:CVE ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-193> .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1572> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1574> a cve:CVE .
+
 <http://w3id.org/sepses/resource/cve/CVE-1999-1580> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1581> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-1999-1582> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0005> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0019> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0054> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0153> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0367> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0370> a cve:CVE .
+
+<http://w3id.org/sepses/resource/cve/CVE-2000-0371> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-2000-0388> a cve:CVE .
 
 <http://w3id.org/sepses/resource/cve/CVE-2000-0508> a cve:CVE .
 
+<http://w3id.org/sepses/resource/cwe/CWE-1067> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-16> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-17> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-178> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-19> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-193> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-20> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-255> a cwe:CWE .
+
 <http://w3id.org/sepses/resource/cwe/CWE-269> a cwe:CWE .
 
+<http://w3id.org/sepses/resource/cwe/CWE-276> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-287> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-290> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-307> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-327> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-364> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-384> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-400> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-434> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-476> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-522> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-59> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-77> a cwe:CWE .
+
 <http://w3id.org/sepses/resource/cwe/CWE-88> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-94> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-78> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-125> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-120> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-264> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-119> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-200> a cwe:CWE .
 

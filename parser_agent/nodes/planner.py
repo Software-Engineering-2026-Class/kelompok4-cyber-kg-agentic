@@ -29,7 +29,7 @@ def planner(state: ParserState) -> ParserState:
                 
                 # Check if it's a pointer like [{"source": "cwe", "file": "cache/cwec_v4.20.xml"}]
                 if isinstance(data, list) and len(data) == 1 and isinstance(data[0], dict) and "file" in data[0]:
-                    pointer_file = data[0]["file"]
+                    pointer_file = data[0]["file"].replace("\\", "/")
                     # If pointer_file is 'cache/cwec_v4.20.xml', we need to adjust it to 'fetcher_agent/cache/...'
                     # The pointer might be absolute or relative to fetcher_agent
                     if pointer_file.startswith("cache/"):

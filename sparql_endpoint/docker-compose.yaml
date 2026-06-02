@@ -10,5 +10,5 @@ services:
       - '1111:1111'
     volumes:
       - ./data:/database/data
-      - ./toload:/database/toload
+      - ./toload:/opt/virtuoso-opensource/vsp/toload
     restart: unless-stopped

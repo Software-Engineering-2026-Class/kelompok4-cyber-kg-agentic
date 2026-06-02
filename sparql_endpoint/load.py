@@ -81,13 +81,6 @@ def main():
     print("  SPARQL ENDPOINT LOADER — SEPSES Cyber-KG")
     print("=" * 60)
 
-    # Buat symlink dari /database/toload ke /opt/virtuoso-opensource/vsp/toload
-    # agar LOAD bisa bypass restriksi DirsAllowed default dari Virtuoso openlink.
-    subprocess.run([
-        "docker", "exec", CONTAINER_NAME,
-        "ln", "-sf", "/database/toload", "/opt/virtuoso-opensource/vsp/toload"
-    ], capture_output=True)
-
     ttl_files = sorted(TOLOAD_DIR.glob("*.ttl"))
     if not ttl_files:
         print("  ERROR: Tidak ada file .ttl di folder toload/")
