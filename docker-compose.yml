@@ -1,0 +1,28 @@
+services:
+  virtuoso:
+    image: openlink/virtuoso-opensource-7:latest
+    container_name: sepses-virtuoso
+    environment:
+      DBA_PASSWORD: dba
+      SPARQL_UPDATE: 'true'
+    ports:
+      - '8890:8890'
+      - '1111:1111'
+    volumes:
+      - ./sparql_endpoint/data:/database/data
+      - ./sparql_endpoint/toload:/opt/virtuoso-opensource/vsp/toload
+    restart: unless-stopped
+
+  pipeline:
+    build: .
+    container_name: cskg-pipeline
+    environment:
+      - VIRTUOSO_HOST=virtuoso
+      - VIRTUOSO_CONTAINER=sepses-virtuoso
+    env_file:
+      - .env
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - .:/app
+    depends_on:
+      - virtuoso

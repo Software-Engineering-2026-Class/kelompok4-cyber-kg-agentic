@@ -4,7 +4,9 @@ verify.py — Verifikasi SPARQL endpoint SEPSES Cyber-KG
 
 import requests
 
-SPARQL_ENDPOINT = "http://localhost:8890/sparql"
+import os
+VIRTUOSO_HOST = os.environ.get("VIRTUOSO_HOST", "localhost")
+SPARQL_ENDPOINT = f"http://{VIRTUOSO_HOST}:8890/sparql"
 
 
 def query(sparql: str, description: str) -> bool:

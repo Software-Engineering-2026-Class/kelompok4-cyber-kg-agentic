@@ -6,10 +6,12 @@ import subprocess
 import requests
 from pathlib import Path
 
-VIRTUOSO_SPARQL = "http://localhost:8890/sparql"
+import os
+VIRTUOSO_HOST = os.environ.get("VIRTUOSO_HOST", "localhost")
+VIRTUOSO_SPARQL = f"http://{VIRTUOSO_HOST}:8890/sparql"
 GRAPH_BASE = "http://w3id.org/sepses/graph/"
 TOLOAD_DIR = Path(__file__).parent / "toload"
-CONTAINER_NAME = "sepses-virtuoso"
+CONTAINER_NAME = os.environ.get("VIRTUOSO_CONTAINER", "sepses-virtuoso")
 
 
 def run_isql(command: str) -> tuple[bool, str]:
