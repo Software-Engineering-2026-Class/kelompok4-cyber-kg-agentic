@@ -3,5 +3,26 @@ venv/
 __pycache__/
 *.pyc
 .vscode/
-cache/
-output/
+
+# Allow directories so git can traverse them
+!**/cache/
+!**/output/
+!**/toload/
+
+# Ignore contents by default
+**/cache/*
+**/output/*
+**/toload/*
+
+# Exceptions to allow committing example inputs, outputs, and evaluation results
+!evaluation/output/kg_evaluation_report.md
+!evaluation/output/chart_*.png
+!parser_agent/output/*.ttl
+!linking_agent/output/*.ttl
+!fetcher_agent/cache/*.version
+!fetcher_agent/cache/icsa.json
+!fetcher_agent/cache/capec.json
+!fetcher_agent/cache/cpe.json
+!fetcher_agent/cache/cve.json
+!fetcher_agent/cache/cwe.json
+!sparql_endpoint/toload/*.ttl

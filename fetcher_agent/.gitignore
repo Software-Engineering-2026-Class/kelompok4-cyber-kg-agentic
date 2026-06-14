@@ -1,2 +1,15 @@
 .env
-/cache
+
+# Allow directory traversal
+!/cache/
+
+# Ignore contents
+/cache/*
+
+# Exceptions
+!/cache/*.version
+!/cache/icsa.json
+!/cache/capec.json
+!/cache/cpe.json
+!/cache/cve.json
+!/cache/cwe.json

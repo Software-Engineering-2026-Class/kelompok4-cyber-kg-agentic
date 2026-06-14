@@ -1,0 +1,4053 @@
+@prefix capec: <http://w3id.org/sepses/vocab/ref/capec#> .
+@prefix cwe: <http://w3id.org/sepses/vocab/ref/cwe#> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1004> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1007> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-632> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-102> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1021> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-103>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-181>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-222>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-504>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-506>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-587>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-654> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1022> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1023> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1024> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1025> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-103> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1037> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-663> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1038> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1039> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-104> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1041> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1042> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1043> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1044> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1045> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1046> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1047> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1048> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1049> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-105> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1050> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1051> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1052> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1053> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1054> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1055> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1056> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1057> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1058> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1059> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-106> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1060> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1061> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1062> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1063> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1064> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1065> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1066> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1067> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1068> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1069> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-107> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1070> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1071> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1072> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1073> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1074> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1075> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1076> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1077> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1078> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1079> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-108> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1080> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1082> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1083> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1084> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1085> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1086> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1087> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1088> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1089> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-109> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1090> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1091> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1092> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1093> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1094> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1095> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1096> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1097> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1098> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1099> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-11> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-110> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1100> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1101> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1102> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1103> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1104> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1105> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1106> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1107> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1108> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1109> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-111> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1110> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1111> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1112> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1113> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1114> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1115> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1116> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1117> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1118> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1119> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-112> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-230>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-231> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1120> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1121> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1122> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1123> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1124> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1125> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1126> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1127> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-113> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-105>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-34>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-114> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-108>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-640> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-115> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-116> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-104>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1164> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-117> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-268>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-93> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1173> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1174> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1176> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1177> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-118> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1187> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1188> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-665> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1189> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-124> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-119> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-100>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-123>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-42>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-44>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1190> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1191> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1192> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-113> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1193> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-12> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-120> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-100>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-42>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-44>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1204> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-20>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-97> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1209> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-121> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-122> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1220> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1221> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-166> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1222> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1223> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1224> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-680> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1229> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-123> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1230> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1231> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-680> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1232> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-166> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1233> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-176>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-680> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1234> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-176> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1235> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1236> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1239> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-204>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-124> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1240> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-97> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1241> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-97> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1242> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-212>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-36> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1243> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-116>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1244> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-114> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1245> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1246> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-212> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1247> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1248> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1249> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-125> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-540> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1250> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1251> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1252> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1253> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1254> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1255> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-189> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1256> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1257> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-456>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1258> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-204>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1259> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-681> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-126> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1260> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-456>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1261> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1262> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-680> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1263> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-401> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1264> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-233>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-663> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1265> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1266> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-546>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-675> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1267> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-681> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1268> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1269> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-439> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-127> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1270> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-633>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-681> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1271> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1272> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-546> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1273> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-560> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1274> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-456>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1275> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-62> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1276> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1277> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-682> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1278> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-188>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1279> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-97> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-128> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1280> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1281> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-212> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1282> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-458>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1283> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-680> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1284> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1285> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1286> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-66>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-676> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1287> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1288> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1289> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-129> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-100> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1290> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1291> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1292> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1293> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1294> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-681> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1295> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1296> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-702> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1297> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1298> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1299> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-457>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-554> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-13> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-130> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-47> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1300> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-189>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-699> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1301> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1302> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-681> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1303> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-663> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1304> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-176> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-131> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-100>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1310> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-682> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1311> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-233> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1312> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-456>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1313> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1314> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1315> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1316> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-456>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-679> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1317> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-122> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1318> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1319> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-132> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1320> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1321> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1322> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1323> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-167>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1324> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1325> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-130> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1326> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-679>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-68> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1327> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1328> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-176> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1329> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1330> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-545> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1331> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-124> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1332> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1333> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-492> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1334> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1335> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1336> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1338> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1339> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-134> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-135>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1341> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1342> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-696> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-135> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1351> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-624>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-625> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1357> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-138> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-105>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-34> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1384> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1385> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1386> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1389> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1390> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1391> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1392> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1393> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1394> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1395> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-14> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-140> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-141> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1419> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-142> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1420> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1421> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1422> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1423> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1426> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1427> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1428> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1429> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-143> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1431> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-1434> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-144> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-145> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-146> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-147> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-460> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-148> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-149> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-468> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-15> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-146>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-176>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-203>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-270>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-271>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-579>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-69>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-150> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-134>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-41>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-93> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-151> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-152> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-153> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-154> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-155> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-156> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-157> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-158> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-159> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-160> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-161> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-162> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-635> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-163> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-164> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-165> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-166> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-167> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-168> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-170> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-172> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-173> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-4>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-174> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-175> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-176> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-71> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-177> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-468>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-178> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-179> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-180> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-181> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-182> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-183> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-184> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-182>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-185> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-186> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-187> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-188> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-190> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-191> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-192> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-193> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-194> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-195> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-196> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-197> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-198> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-20> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-101>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-104>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-108>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-109>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-110>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-135>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-136>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-153>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-182>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-209>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-22>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-23>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-230>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-231>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-250>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-261>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-28>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-42>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-473>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-588>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-63>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-664>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-83>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-88>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-200> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-116>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-169>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-22>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-224>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-285>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-287>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-290>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-291>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-292>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-293>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-294>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-295>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-296>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-297>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-298>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-299>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-300>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-301>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-302>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-303>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-304>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-305>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-306>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-307>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-308>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-309>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-310>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-312>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-313>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-317>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-318>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-319>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-320>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-321>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-322>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-323>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-324>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-325>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-326>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-327>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-328>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-329>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-330>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-472>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-497>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-508>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-573>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-574>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-575>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-576>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-577>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-616>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-643>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-646>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-651>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-201> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-12>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-217>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-612>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-613>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-618>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-619>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-621>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-622>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-623> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-202> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-203> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-189> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-204> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-331>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-332>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-541>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-580> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-205> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-541>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-580> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-206> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-207> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-208> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-462>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-541>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-580> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-209> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-215>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-463>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-54>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-210> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-211> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-212> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-168> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-213> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-214> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-215> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-216> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-217> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-218> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-219> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-22> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-126>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-220> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-221> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-81> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-222> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-223> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-224> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-225> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-226> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-228> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-229> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-23> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-139>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-230> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-231> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-232> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-233> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-39> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-234> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-235> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-460> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-236> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-237> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-238> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-239> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-24> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-240> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-241> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-48> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-242> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-243> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-244> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-245> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-246> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-247> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-248> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-249> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-25> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-250> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-104>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-470>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-69> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-252> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-253> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-256> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-257> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-49> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-258> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-259> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-26> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-260> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-261> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-55> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-262> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-263> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-266> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-267> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-58>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-634>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-637>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-643>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-648> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-268> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-269> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-122>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-233>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-58> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-27> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-270> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-30>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-271> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-272> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-273> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-274> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-276> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-277> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-278> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-279> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-81> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-28> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-280> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-281> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-282> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-283> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-284> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-19>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-441>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-478>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-479>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-502>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-503>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-536>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-546>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-550>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-551>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-552>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-556>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-558>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-562>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-563>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-564>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-578> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-285> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-104>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-402>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-5>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-51>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-647>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-668>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-87> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-286> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-287> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-114>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-115>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-151>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-194>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-22>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-57>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-593>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-633>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-650>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-94> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-288> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-665> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-289> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-29> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-290> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-22>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-459>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-461>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-473>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-476>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-667>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-94> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-291> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-4> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-292> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-293> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-294> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-102>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-644>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-645>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-701>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-94> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-295> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-459>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-475> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-296> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-297> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-298> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-299> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-30> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-300> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-466>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-57>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-589>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-590>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-612>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-613>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-615>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-662>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-94> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-301> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-90> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-302> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-274>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-303> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-90> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-304> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-305> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-306> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-12>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-166>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-216>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-36>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-62> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-307> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-308> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-644>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-645>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-309> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-31> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-311> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-157>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-158>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-204>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-383>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-384>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-385>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-386>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-387>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-388>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-477>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-609>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-65> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-312> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-313> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-314> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-315> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-316> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-317> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-318> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-65> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-319> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-102>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-117>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-383>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-477>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-65> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-32> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-321> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-322> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-323> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-324> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-325> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-68> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-326> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-112>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-192>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-20> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-327> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-20>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-459>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-473>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-475>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-608>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-614>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-97> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-328> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-461>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-68> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-329> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-33> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-330> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-112>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-485>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-331> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-59> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-332> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-333> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-334> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-335> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-336> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-337> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-338> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-339> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-34> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-340> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-341> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-342> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-343> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-344> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-345> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-111>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-141>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-142>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-148>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-218>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-384>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-385>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-386>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-387>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-388>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-665>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-701> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-346> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-111>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-141>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-142>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-160>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-384>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-385>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-386>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-387>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-388>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-510>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-89> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-347> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-463>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-475> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-348> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-141>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-142>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-349> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-141>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-142>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-35> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-350> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-142>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-275>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-89> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-351> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-352> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-111>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-462>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-467>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-62> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-353> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-389>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-665>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-74>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-354> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-145>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-463>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-356> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-357> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-358> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-359> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-464>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-467>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-498>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-508> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-36> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-597> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-360> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-362> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-363> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-364> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-365> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-366> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-367> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-27>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-368> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-369> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-37> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-370> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-372> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-140>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-74> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-373> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-374> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-375> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-377> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-149>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-155> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-378> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-379> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-38> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-382> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-383> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-384> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-196>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-61> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-385> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-462> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-386> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-39> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-390> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-391> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-392> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-393> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-394> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-395> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-396> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-397> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-40> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-400> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-147>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-227>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-492> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-401> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-402> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-403> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-404> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-125>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-130>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-131>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-494>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-495>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-496>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-666> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-405> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-406> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-407> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-408> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-409> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-41> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-3> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-410> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-412> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-413> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-414> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-415> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-416> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-419> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-383> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-42> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-420> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-421> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-422> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-423> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-424> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-554> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-425> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-143>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-144>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-668>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-87> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-426> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-38> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-427> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-38>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-471> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-428> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-43> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-430> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-11> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-431> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-432> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-433> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-434> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-435> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-436> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-105>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-273>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-34> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-437> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-439> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-44> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-440> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-441> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-219>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-465> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-443> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-444> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-273>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-33> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-446> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-447> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-448> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-449> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-45> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-450> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-451> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-154>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-163>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-164>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-173>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-98> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-453> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-454> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-455> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-456> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-457> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-458> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-459> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-46> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-649> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-460> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-462> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-463> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-464> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-466> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-467> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-468> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-469> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-47> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-470> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-138> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-471> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-384>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-385>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-386>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-387>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-388> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-472> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-146>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-226>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-473> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-77> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-474> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-475> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-476> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-477> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-478> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-479> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-48> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-480> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-481> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-482> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-483> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-484> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-486> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-487> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-488> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-489> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-121>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-661> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-49> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-491> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-492> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-493> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-494> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-184>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-185>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-186>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-187>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-533>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-538>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-657>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-662>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-691>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-692>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-693>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-695> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-495> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-496> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-497> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-170>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-694> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-498> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-499> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-5> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-50> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-500> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-501> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-502> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-586> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-506> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-442>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-448>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-636> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-507> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-698> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-508> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-509> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-51> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-510> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-511> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-512> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-514> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-463> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-515> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-516> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-52> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-520> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-521> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-112>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-522> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-102>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-474>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-50>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-509>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-551>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-555>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-561>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-644>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-645>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-523> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-102> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-524> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-204> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-525> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-37> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-526> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-527> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-528> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-529> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-53> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-530> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-531> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-532> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-215> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-533> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-534> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-535> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-536> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-537> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-538> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-95> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-539> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-54> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-540> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-541> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-542> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-543> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-544> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-545> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-546> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-547> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-548> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-549> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-55> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-550> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-551> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-552> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-150>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-639> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-553> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-650> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-554> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-555> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-556> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-558> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-56> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-560> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-561> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-562> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-563> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-564> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-109> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-565> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-226>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-39> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-566> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-567> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-568> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-57> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-570> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-571> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-572> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-573> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-574> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-575> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-576> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-577> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-578> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-579> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-58> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-580> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-581> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-582> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-583> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-584> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-585> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-586> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-587> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-588> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-589> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-96> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-59> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-132>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-590> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-591> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-592> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-593> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-94> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-594> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-595> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-596> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-597> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-598> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-599> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-6> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-600> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-601> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-178> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-602> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-162>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-202>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-207>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-208>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-383>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-384>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-385>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-386>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-387>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-388> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-603> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-605> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-606> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-607> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-608> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-609> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-61> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-27> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-610> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-219> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-611> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-221> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-612> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-613> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-614> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-102> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-615> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-616> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-617> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-618> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-619> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-62> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-620> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-621> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-622> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-623> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-624> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-625> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-626> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-627> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-628> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-636> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-637> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-638> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-104> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-639> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-64> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-640> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-50> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-641> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-642> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-31> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-643> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-644> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-645> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-2> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-646> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-209> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-647> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-648> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-107>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-234> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-649> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-463> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-65> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-650> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-651> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-652> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-653> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-654> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-16>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-274>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-49>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-55>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-560>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-565>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-600>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-653>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-655> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-656> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-657> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-66> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-662> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-27>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-663> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-664> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-196>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-21>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-61>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-62> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-665> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-666> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-667> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-27> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-668> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-669> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-67> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-670> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-671> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-672> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-673> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-674> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-230>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-231> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-675> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-676> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-680> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-100>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-681> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-682> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-128>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-129> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-683> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-684> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-685> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-686> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-687> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-688> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-689> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-26>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-27> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-69> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-168> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-690> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-691> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-29> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-692> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-693> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-107>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-20>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-22>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-237>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-36>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-477>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-480>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-51>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-57>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-59>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-65>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-668>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-74>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-87> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-694> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-695> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-36> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-696> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-463> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-697> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-182>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-41>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-44>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-88>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-92> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-698> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-7> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-703> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-704> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-705> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-706> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-159>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-177>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-48>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-641> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-707> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-250>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-276>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-277>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-278>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-279>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-468>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-83>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-84> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-708> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-71> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-710> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-72> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-73> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-732> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-1>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-122>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-127>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-17>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-180>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-206>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-234>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-60>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-61>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-62>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-642> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-733> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-74> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-101>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-105>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-108>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-120>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-13>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-135>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-14>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-24>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-250>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-267>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-273>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-28>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-3>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-34>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-42>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-45>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-46>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-47>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-51>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-52>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-53>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-64>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-67>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-71>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-72>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-78>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-79>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-8>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-80>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-83>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-84>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-9> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-749> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-500> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-75> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-93> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-754> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-755> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-756> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-757> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-220>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-606>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-620> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-758> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-759> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-76> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-760> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-761> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-762> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-763> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-764> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-765> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-766> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-767> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-768> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-769> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-77> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-136>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-183>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-248>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-40>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-76> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-770> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-125>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-130>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-147>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-197>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-229>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-230>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-231>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-469>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-482>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-486>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-487>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-488>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-489>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-490>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-491>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-493>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-494>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-495>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-496>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-528> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-771> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-772> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-469> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-773> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-774> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-775> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-776> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-197> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-777> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-778> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-779> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-78> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-108>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-43>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-6>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-88> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-780> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-781> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-782> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-783> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-784> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-785> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-786> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-787> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-788> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-789> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-79> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-209>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-588>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-591>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-592>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-63>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-790> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-791> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-792> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-793> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-794> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-795> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-796> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-797> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-798> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-191>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-70> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-799> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-8> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-80> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-18>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-193>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-32>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-86> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-804> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-805> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-100>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-256> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-806> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-807> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-81> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-198> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-82> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-820> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-821> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-822> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-129> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-823> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-129> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-824> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-825> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-826> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-827> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-828> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-829> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-175>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-201>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-228>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-251>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-252>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-253>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-263>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-538>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-549>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-640>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-660>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-695>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-698> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-83> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-243>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-244>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-588> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-830> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-831> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-832> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-833> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-25> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-834> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-835> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-836> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-644>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-652> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-837> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-838> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-468> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-839> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-84> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-841> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-842> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-843> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-85> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-245> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-86> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-247>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-862> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-665> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-863> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-87> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-199> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-88> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-137>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-174>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-41>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-460>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-88> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-89> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-108>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-109>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-110>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-470>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-66>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-7> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-9> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-90> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-136> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-908> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-909> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-91> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-250>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-83> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-910> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-911> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-912> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-133>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-190> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-913> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-914> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-915> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-916> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-55> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-917> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-918> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-664> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-92> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-920> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-921> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-922> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-923> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-161>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-481>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-501>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-697> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-924> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-925> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-499> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-926> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-927> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-93> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-15>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-939> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-94> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-242>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-940> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-500>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-594>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-595>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-596> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-941> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-942> a cwe:CWE .
+
+<http://w3id.org/sepses/resource/cwe/CWE-943> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-676> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-95> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-35> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-96> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-35>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-73>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-77>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-81>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-97> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-101>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-35> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-98> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-193> .
+
+<http://w3id.org/sepses/resource/cwe/CWE-99> a cwe:CWE ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-10>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-240>,
+        <http://w3id.org/sepses/resource/capec/CAPEC-75> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-103> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-11> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-113> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-115> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-117> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-123> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-126> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-128> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-131> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-132> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-133> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-134> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-137> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-138> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-139> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-140> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-143> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-144> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-145> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-148> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-149> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-151> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-153> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-154> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-155> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-157> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-158> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-159> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-160> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-161> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-162> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-163> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-164> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-167> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-169> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-170> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-173> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-174> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-175> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-177> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-178> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-18> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-181> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-183> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-184> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-185> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-186> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-187> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-188> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-19> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-190> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-191> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-192> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-194> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-198> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-199> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-2> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-201> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-202> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-203> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-206> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-207> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-208> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-216> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-217> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-218> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-220> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-221> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-222> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-224> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-227> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-228> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-229> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-23> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-237> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-240> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-242> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-243> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-244> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-245> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-247> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-248> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-251> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-252> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-253> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-256> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-261> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-263> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-268> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-270> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-271> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-275> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-276> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-277> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-278> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-279> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-285> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-287> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-290> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-291> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-292> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-293> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-294> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-295> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-296> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-297> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-298> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-299> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-30> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-300> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-301> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-302> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-303> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-304> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-305> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-306> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-307> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-308> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-309> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-310> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-312> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-313> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-317> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-318> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-319> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-32> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-320> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-321> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-322> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-323> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-324> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-325> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-326> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-327> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-328> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-329> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-33> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-330> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-331> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-332> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-389> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-40> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-401> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-402> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-439> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-441> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-442> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-448> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-457> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-458> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-464> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-465> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-466> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-471> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-472> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-474> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-476> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-478> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-479> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-480> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-481> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-482> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-485> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-486> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-487> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-488> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-489> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-490> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-491> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-493> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-497> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-498> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-499> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-5> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-501> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-502> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-503> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-504> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-506> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-510> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-528> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-533> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-536> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-54> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-540> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-549> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-550> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-552> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-556> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-558> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-562> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-563> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-564> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-573> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-574> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-575> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-576> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-577> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-578> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-579> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-586> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-587> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-589> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-590> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-591> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-592> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-593> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-594> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-595> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-596> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-597> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-606> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-608> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-609> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-614> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-615> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-616> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-618> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-619> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-620> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-621> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-622> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-623> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-632> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-634> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-635> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-636> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-637> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-639> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-641> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-642> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-646> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-647> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-648> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-649> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-651> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-654> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-657> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-660> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-661> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-666> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-667> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-675> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-691> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-692> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-693> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-694> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-696> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-697> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-699> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-702> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-86> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-95> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-96> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-98> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-107> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-110> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-114> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-116> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-12> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-124> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-125> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-146> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-147> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-168> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-193> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-196> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-197> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-215> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-219> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-226> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-234> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-274> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-28> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-38> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-4> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-461> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-467> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-469> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-470> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-48> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-492> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-494> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-495> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-496> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-50> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-500> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-508> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-538> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-551> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-554> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-58> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-612> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-613> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-63> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-633> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-640> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-643> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-650> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-66> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-662> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-664> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-676> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-682> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-69> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-695> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-698> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-701> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-84> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-89> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-90> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-101> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-109> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-111> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-112> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-122> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-129> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-130> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-135> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-136> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-166> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-182> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-189> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-209> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-212> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-233> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-273> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-41> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-44> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-459> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-460> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-462> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-473> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-475> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-477> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-51> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-541> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-546> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-57> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-580> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-588> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-61> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-645> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-663> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-668> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-68> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-87> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-93> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-105> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-141> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-20> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-204> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-230> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-231> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-250> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-34> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-36> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-383> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-42> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-468> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-644> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-65> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-83> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-88> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-102> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-104> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-108> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-142> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-176> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-22> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-27> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-384> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-385> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-386> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-387> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-388> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-456> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-62> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-665> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-680> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-681> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-94> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-97> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-100> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-25> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-463> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-6> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-67> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-7> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-72> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-75> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-127> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-150> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-16> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-17> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-509> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-52> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-53> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-555> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-561> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-565> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-600> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-653> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-70> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-77> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-92> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-13> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-14> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-24> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-35> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-46> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-49> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-545> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-55> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-560> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-624> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-625> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-73> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-74> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-8> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-9> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-21> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-267> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-29> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-39> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-45> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-47> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-64> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-652> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-679> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-80> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-85> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-10> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-120> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-121> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-43> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-60> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-78> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-81> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-15> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-31> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-59> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-71> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-76> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-79> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-26> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-3> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-180> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-37> a capec:CAPEC .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-1> a capec:CAPEC .
+
