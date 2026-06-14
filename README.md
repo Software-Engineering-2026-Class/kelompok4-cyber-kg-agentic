@@ -21,89 +21,132 @@ This project implements a multi-agent pipeline to fetch, parse, link, validate, 
 
 2. **Install dependencies:**
    Each agent has its own virtual environment setup. You can either install dependencies globally or per agent.
-   A root `requirement.txt` exists. You can install via:
+   A root `requirements.txt` exists. You can install via:
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    ```
+
+## System Architecture
+
+Below is the conceptual overview of the CSKG agentic pipeline architecture:
+
+```mermaid
+graph TD
+    A[Fetcher Agent] -->|Raw Data cache/| B[Parser Agent]
+    B -->|Base Triples .ttl| C[Linking Agent]
+    C -->|Linked Triples .ttl| D[Validation Agent]
+    D -->|Quality Check & Report| E[SPARQL Endpoint - Virtuoso]
+    E -->|Knowledge Graph| F[NL2SPARQL SOC Analyst Agent]
+
+    subgraph Data Sources
+        DS1[CVE - NVD]
+        DS2[CPE - NVD]
+        DS3[CWE - MITRE]
+        DS4[CAPEC - MITRE]
+        DS5[ATT&CK - MITRE]
+        DS6[ICSA KEV - CISA]
+    end
+
+    Data Sources --> A
+```
 
 ## Configuration
 
-Configuration is primarily handled through environment variables and agent-specific `.env` or `config.py` files.
+Configuration is primarily handled through environment variables and agent-specific `.env` files.
 
-1. **Environment Variables:**
-   Rename `.env.example` to `.env` (if applicable) or create a `.env` file in the root and agent directories (like `fetcher_agent/.env`) to store API keys or configurations.
-2. **Virtuoso Configuration:**
-   The SPARQL endpoint is configured via `sparql_endpoint/docker-compose.yaml`. The default exposed ports are `8890` (HTTP/SPARQL) and `1111` (ISQL).
+### Environment Variables
 
-## How to Run the Pipeline
+| Variable | Description | Required / Optional | Default Value |
+| --- | --- | --- | --- |
+| `GOOGLE_API_KEY` | Gemini model access for the query/validation agents. | **Required** | None |
+| `NVD_API_KEY` | Optional key to bypass NVD rate limits (fetches faster). | Optional | None |
+| `VIRTUOSO_HOST` | Host address of the Virtuoso SPARQL endpoint. | Optional | `localhost` (or `virtuoso` in Compose) |
+| `VIRTUOSO_CONTAINER`| Name of the running Virtuoso Docker container. | Optional | `cskg-sparql` |
 
-The pipeline is modular and should be run sequentially to ensure data flows correctly from fetching to the SPARQL endpoint.
+Rename `.env.example` to `.env` in the project root:
+```bash
+cp .env.example .env
+```
+
+---
+
+## Quick Start with Docker
+
+The easiest way to build, run, and query the entire CSKG pipeline is using Docker Compose.
+
+### 1. Build and Start Services
+This starts Virtuoso, builds the pipeline container, and automatically runs the sequential fetch-parse-link-validate-load cycle:
+```bash
+docker compose up --build
+```
+
+### 2. Verify SPARQL Endpoint & Query
+Once the pipeline container output shows completion (keeps alive with `tail -f`), verify the endpoint:
+- **SPARQL Endpoint**: `http://localhost:8890/sparql`
+- **Web Admin UI**: `http://localhost:8890/conductor`
+
+---
+
+## How to Run the Pipeline (Local/Manual)
+
+The pipeline is modular and can also be run sequentially on your host machine.
 
 ### 1. Fetcher Agent
-
-Fetches cybersecurity datasets.
-
+Fetches raw datasets:
 ```bash
 python fetcher_agent/main.py
 ```
 
-_Wait for the fetch process to complete. Data is typically stored in a cache or output directory._
-
 ### 2. Parser Agent
-
-Parses the fetched datasets and maps them to the SEPSES ontology classes.
-
+Parses raw files and maps to SEPSES classes:
 ```bash
 python parser_agent/main.py
 ```
 
 ### 3. Linking Agent
-
-Identifies and builds relationships between sources (e.g., CVE→CWE→CAPEC→ATT&CK).
-
+Identifies and maps relationships:
 ```bash
 python linking_agent/main.py
 ```
 
 ### 4. Validation Agent
-
-Validates the semantic quality and structure of the generated Turtle (`.ttl`) files.
-
+Validates semantic compliance and structure:
 ```bash
 python validation_agent/main.py
 ```
 
 ### 5. SPARQL Endpoint
-
-Loads the validated TTL files into an OpenLink Virtuoso instance.
-
-**Start the Database:**
-
+Start Virtuoso Database:
 ```bash
 cd sparql_endpoint
-docker-compose up -d
+docker compose up -d
 ```
-
-**Load the Data:**
-Make sure the output `.ttl` files from the pipeline are in the `toload` directory.
-
+Load the validated TTL files:
 ```bash
 python load.py
 ```
-
-**Verify the Endpoint:**
-
+Verify the endpoint:
 ```bash
 python verify.py
 ```
 
+---
+
 ## Expected Outputs
 
-- **Fetcher Agent:** Raw cybersecurity data files (JSON, XML, CSV, etc.) stored in `fetcher_agent/cache/`.
-- **Parser Agent:** Intermediate parsed Turtle (`.ttl`) files mapped to SEPSES ontology.
+- **Fetcher Agent:** Raw cybersecurity data files stored in `fetcher_agent/cache/`.
+- **Parser Agent:** Parsed Turtle (`.ttl`) files mapped to SEPSES ontology.
 - **Linking Agent:** Linked Turtle files containing relationship triples, saved in `linking_agent/output/`.
 - **Validation Agent:** Validation reports summarizing triple counts, subjects, errors, and warnings.
-- **SPARQL Endpoint:** A fully queryable Knowledge Graph at `http://localhost:8890/sparql` with named graphs such as `http://w3id.org/sepses/graph/cve` and links like `http://w3id.org/sepses/graph/cve_to_cwe`.
+- **SPARQL Endpoint:** A fully queryable Knowledge Graph at `http://localhost:8890/sparql` with named graphs such as `http://w3id.org/sepses/graph/cve`.
+
+---
+
+## Security Use Cases
+We have documented 3 primary security query use cases in the [USE_CASES.md](file:///mnt/shared/Kuliah/S1/UGM/4/MRPL/tugas_3/cskg/sparql_endpoint/use_cases/USE_CASES.md) file, showing exact query inputs and outputs:
+1. **Vulnerability Attack Chain Analysis** (`CVE` -> `CWE` -> `CAPEC` -> `ATT&CK`)
+2. **Exploited Vulnerability Prioritization** (`CISA KEV` -> `ICSA` -> `CVE`)
+3. **ATT&CK Technique Coverage Mapping** (`CAPEC` -> `ATT&CK`)
 
 ## Known Limitations
 

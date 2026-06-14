@@ -118,7 +118,16 @@ def load_validation_report() -> dict:
     latest = reports[-1]
     print(f"  [validation] Loading: {latest.name}")
     with open(latest) as f:
-        return json.load(f)
+        data = json.load(f)
+        # Adapt keys for report generator compatibility
+        if "compliance_score" in data:
+            data["semantic_compliance_index"] = data["compliance_score"]
+        if "quality_tier" in data:
+            data["quality_grade"] = data["quality_tier"]
+        if "statistics" in data:
+            data["total_errors"] = data["statistics"].get("errors", 0)
+            data["total_warnings"] = data["statistics"].get("warnings", 0)
+        return data
 
 # ── 4. Generate charts ───────────────────────────────────────
 def chart_triple_counts(base_stats: list[dict], linking_stats: list[dict]):

@@ -1,13 +1,13 @@
 services:
   virtuoso:
     image: openlink/virtuoso-opensource-7:latest
-    container_name: sepses-virtuoso
+    container_name: cskg-sparql
     environment:
       DBA_PASSWORD: dba
       SPARQL_UPDATE: 'true'
     ports:
-      - '8890:8890'
-      - '1111:1111'
+      - '8890:8890' # SPARQL Endpoint HTTP / Conductor Web UI
+      - '1111:1111' # ISQL connection port
     volumes:
       - ./data:/database/data
       - ./toload:/opt/virtuoso-opensource/vsp/toload

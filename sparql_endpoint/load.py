@@ -11,7 +11,7 @@ VIRTUOSO_HOST = os.environ.get("VIRTUOSO_HOST", "localhost")
 VIRTUOSO_SPARQL = f"http://{VIRTUOSO_HOST}:8890/sparql"
 GRAPH_BASE = "http://w3id.org/sepses/graph/"
 TOLOAD_DIR = Path(__file__).parent / "toload"
-CONTAINER_NAME = os.environ.get("VIRTUOSO_CONTAINER", "sepses-virtuoso")
+CONTAINER_NAME = os.environ.get("VIRTUOSO_CONTAINER", "cskg-sparql")
 
 
 def run_isql(command: str) -> tuple[bool, str]:

@@ -1,0 +1,33 @@
+@prefix cve: <http://w3id.org/sepses/vocab/ref/cve#> .
+@prefix cwe: <http://w3id.org/sepses/vocab/ref/cwe#> .
+@prefix cpe: <http://w3id.org/sepses/vocab/ref/cpe#> .
+@prefix capec: <http://w3id.org/sepses/vocab/ref/capec#> .
+@prefix attck: <http://w3id.org/sepses/vocab/ref/attack#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://w3id.org/sepses/resource/cve/CVE-2026-1234> a cve:CVE ;
+    cve:id "CVE-2026-1234"^^xsd:string ;
+    cve:description "A mock valid CVE vulnerability description."^^xsd:string ;
+    cve:hasCWE <http://w3id.org/sepses/resource/cwe/CWE-79> ;
+    cve:hasCPE <http://w3id.org/sepses/resource/cpe/CPE-1> .
+
+<http://w3id.org/sepses/resource/cpe/CPE-1> a cpe:CPE ;
+    cpe:id "CPE-1"^^xsd:string ;
+    cpe:cpe23Uri "cpe:2.3:a:mock:software:1.0:*:*:*:*:*:*:*"^^xsd:string .
+
+<http://w3id.org/sepses/resource/cwe/CWE-79> a cwe:CWE ;
+    cwe:id "CWE-79"^^xsd:string ;
+    cwe:name "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"^^xsd:string ;
+    cwe:description "Cross-site scripting (XSS) vulnerability."^^xsd:string ;
+    cwe:hasCAPEC <http://w3id.org/sepses/resource/capec/CAPEC-85> .
+
+<http://w3id.org/sepses/resource/capec/CAPEC-85> a capec:CAPEC ;
+    capec:id "CAPEC-85"^^xsd:string ;
+    capec:name "AJAX Injection"^^xsd:string ;
+    capec:description "An attacker injects malicious AJAX code."^^xsd:string ;
+    capec:hasRelatedAttackPattern <http://w3id.org/sepses/resource/attack/T1059> .
+
+<http://w3id.org/sepses/resource/attack/T1059> a attck:AttackPattern ;
+    attck:id "T1059"^^xsd:string ;
+    attck:name "Command and Scripting Interpreter"^^xsd:string ;
+    attck:techniqueId "T1059"^^xsd:string .

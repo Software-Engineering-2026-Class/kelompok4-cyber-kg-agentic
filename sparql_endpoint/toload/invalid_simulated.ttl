@@ -1,0 +1,17 @@
+@prefix cve: <http://w3id.org/sepses/vocab/ref/cve#> .
+@prefix cwe: <http://w3id.org/sepses/vocab/ref/cwe#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# 1. Invalid ID Format (CVE-123 instead of CVE-YYYY-NNNN) dan Ketiadaan description
+<http://w3id.org/sepses/resource/cve/CVE-123> a cve:CVE ;
+    cve:id "CVE-123"^^xsd:string .
+
+# 2. Ketiadaan name dan id wajib untuk CWE
+<http://w3id.org/sepses/resource/cwe/CWE-bad> a cwe:CWE ;
+    cwe:description "Malformed CWE weakness without ID and Name."^^xsd:string .
+
+# 3. Broken link (Relasi menunjuk ke URI ilegal/bukan CWE)
+<http://w3id.org/sepses/resource/cve/CVE-2026-9999> a cve:CVE ;
+    cve:id "CVE-2026-9999"^^xsd:string ;
+    cve:description "This CVE links to a broken resource."^^xsd:string ;
+    cve:hasCWE <http://w3id.org/invalid-prefix/broken-resource> .
